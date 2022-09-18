@@ -1,0 +1,123 @@
+![Cover image for Android Application Development Cookbook: 93 Recipes for Building Winning Apps](https://imgdetail.ebookreading.net/cover/cover/web_mobile/EB9781118240281.jpg)
+
+[Android Application Development Cookbook: 93 Recipes for Building Winning Apps](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_1.html "Android Application Development Cookbook: 93 Recipes for Building Winning Apps")
+====================================================================================================================
+
+Author : [Wei-Meng Lee](https://ebookreading.net/search/author/Wei-Meng+Lee)
+
+Release Date : 2013/01/01
+
+ISBN : 9781118240281
+
+Topic : [Web & Mobile](https://ebookreading.net/search/category/web-mobile)
+
+Book Description
+-----------------
+
+A must-have collection of ready-to-use Android recipes!
+The popularity of Google Android devices is seemingly unstoppable and the Android 4 release offers, for the first time, a single OS solution for building both phone and tablet applications. With that exciting information in mind, veteran author Wei-Meng Lee presents you with 100 unique recipes that you can apply today in order to discover solutions to some of the most commonly encountered problems that exist in Android programming.
+Covering the scope of multiple Android releases up through Android 4, this reference features a task description, followed by the solution(s) available, and a standalone project file that illustrates the use of the recipe. Formatting each recipe to be standalone, Wei-Meng Lee allows you to jump into the relevant recipe to find a solution to specific challenges.
+Identifies and describes a programming task, provides a step-by-step solution, and presents a full-code solution ready for download
+Covers multiple Android releases
+Addresses such topics as user interfaces, telephony and messaging, networking, Google maps, location-based services, persisting data, leveraging hardware features, and more
+Android Application Development Cookbook is your solution to discovering...solutions!
+              
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_1.html)
+1. [Chapter 1: Android Fundamentals](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_2.html)
+    1. [	Recipe 1.1  Linking Activities](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_3.html#h1-177679c01-0001)
+    1. [	Recipe 1.2  Passing Data Between Activities](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_4.html#h1-177679c01-0002)
+    1. [	Recipe 1.3  Passing Objects Between Activities](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_5.html#h1-177679c01-0003)
+    1. [	Recipe 1.4  Sending and Receiving Broadcasts](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_6.html#h1-177679c01-0004)
+    1. [	Recipe 1.5  Assigning Priorities to Broadcast Receivers](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_7.html#h1-177679c01-0005)
+    1. [	Recipe 1.6  Auto-Launching Your Application at Boot Time](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_8.html#h1-177679c01-0006)
+    1. [	Recipe 1.7  Calling Built-In Apps](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_9.html#h1-177679c01-0007)
+1. [Chapter 2: Using Views to Design the User Interface](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_10.html)
+    1. [	Recipe 2.1  Using Buttons](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_11.html#h1-177679c02-0001)
+    1. [	Recipe 2.2  Using Image Buttons](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_12.html#h1-177679c02-0002)
+    1. [	Recipe 2.3  Using Radio Buttons](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_13.html#h1-177679c02-0003)
+    1. [	Recipe 2.4  Using CheckBoxes](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_14.html#h1-177679c02-0004)
+    1. [	Recipe 2.5  Implementing a Star Rating System](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_15.html#h1-177679c02-0005)
+    1. [	Recipe 2.6  Using AutoCompleteTextView](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_16.html#h1-177679c02-0006)
+    1. [	Recipe 2.7  Displaying Web Pages](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_17.html#h1-177679c02-0007)
+    1. [	Recipe 2.8  Using the TimePicker](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_18.html#h1-177679c02-0008)
+    1. [	Recipe 2.9  Using the DatePicker](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_19.html#h1-177679c02-0009)
+    1. [	Recipe 2.10  Using LinearLayout for View Positioning](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_20.html#h1-177679c02-0010)
+    1. [	Recipe 2.11  Using RelativeLayout for View Positioning](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_21.html#h1-177679c02-0011)
+    1. [	Recipe 2.12  Using FrameLayout for View Positioning](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_22.html#h1-177679c02-0012)
+    1. [	Recipe 2.13  Using TableLayout for View Positioning](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_23.html#h1-177679c02-0013)
+    1. [	Recipe 2.14  Using the ScrollView](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_24.html#h1-177679c02-0014)
+    1. [	Recipe 2.15  Displaying Context and Options Menus](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_25.html#h1-177679c02-0015)
+    1. [	Recipe 2.16  Displaying Dialogs](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_26.html#h1-177679c02-0016)
+1. [Chapter 3: Displaying Lists of Items and Images](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_27.html)
+    1. [	Recipe 3.1  Displaying a List of Items Using the ListView](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_28.html#h1-177679c03-0001)
+    1. [	Recipe 3.2  Customizing the ListView](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_29.html#h1-177679c03-0002)
+    1. [	Recipe 3.3  Displaying Multiple ListViews](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_30.html#h1-177679c03-0003)
+    1. [	Recipe 3.4  Creating Custom ListViews](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_31.html#h1-177679c03-0004)
+    1. [	Recipe 3.5  Further Customizing Each Row with Additional TextViews](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_32.html#h1-177679c03-0005)
+    1. [	Recipe 3.6  Displaying a List of Items Using the Spinner View](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_33.html#h1-177679c03-0006)
+    1. [	Recipe 3.7  Displaying a List of Images](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_34.html#h1-177679c03-0007)
+    1. [	Recipe 3.8  Animating the Changing of Images Using the ImageSwitcher](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_35.html#h1-177679c03-0008)
+    1. [	Recipe 3.9  Displaying Images Using the GridView](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_36.html#h1-177679c03-0009)
+1. [Chapter 4: Telephony](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_37.html)
+    1. [	Recipe 4.1  Calling from Your Application](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_38.html#h1-177679c04-0001)
+    1. [	Recipe 4.2  Monitoring the State of the Phone](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_39.html#h1-177679c04-0002)
+    1. [	Recipe 4.3  Monitoring Phone State in the Background](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_40.html#h1-177679c04-0003)
+    1. [	Recipe 4.4  Blocking Outgoing Calls](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_41.html#h1-177679c04-0004)
+    1. [	Recipe 4.5  Auto-Answering an Incoming Call](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_42.html#h1-177679c04-0005)
+    1. [	Recipe 4.6  Switching to Airplane Mode](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_43.html#h1-177679c04-0006)
+    1. [	Recipe 4.7  Getting the Phone Number, IMEI, and SIM Card ID](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_44.html#h1-177679c04-0007)
+    1. [	Recipe 4.8  Enabling Bluetooth ](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_45.html#h1-177679c04-0008)
+1. [Chapter 5: Messaging](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_46.html)
+    1. [	Recipe 5.1  Sending SMS Messages Through the Built-in Messaging Application](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_47.html#h1-177679c05-0001)
+    1. [	Recipe 5.2  Sending SMS Messages Programmatically in Your Android Application](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_48.html#h1-177679c05-0002)
+    1. [	Recipe 5.3  Monitoring the Status of Sent SMS Messages Programmatically](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_49.html#h1-177679c05-0003)
+    1. [	Recipe 5.4  Monitoring Outgoing SMS Messages](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_50.html#h1-177679c05-0004)
+1. [Chapter 6: Network Programming](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_51.html)
+    1. [	Recipe 6.1  Connecting to Servers Using HTTP GET](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_52.html#h1-177679c06-0001)
+    1. [	Recipe 6.2  Connecting to Servers Using HTTP POST](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_53.html#h1-177679c06-0002)
+    1. [	Recipe 6.3  Downloading Binary Data Using HTTP](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_54.html#h1-177679c06-0003)
+    1. [	Recipe 6.4  Consuming XML Web Services](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_55.html#h1-177679c06-0004)
+    1. [	Recipe 6.5  Consuming JSON Web Services](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_56.html#h1-177679c06-0005)
+    1. [	Recipe 6.6  Getting the IP Address of the Device](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_57.html#h1-177679c06-0006)
+    1. [	Recipe 6.7  Creating a Socket Server](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_58.html#h1-177679c06-0007)
+    1. [	Recipe 6.8  Creating a Socket Client](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_59.html#h1-177679c06-0008)
+    1. [	Recipe 6.9  Checking for the Availability of Bluetooth](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_60.html#h1-177679c06-0009)
+    1. [	Recipe 6.10  Monitoring the State of Bluetooth](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_61.html#h1-177679c06-0010)
+1. [Chapter 7: Using Google Maps](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_62.html)
+    1. [	Recipe 7.1  Displaying Google Maps](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_63.html#h1-177679c07-0001)
+    1. [	Recipe 7.2  Zooming in and out of Google Maps](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_64.html#h1-177679c07-0002)
+    1. [	Recipe 7.3  Changing Map Modes](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_65.html#h1-177679c07-0003)
+    1. [	Recipe 7.4  Navigating the Map to a Particular Location](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_66.html#h1-177679c07-0004)
+    1. [	Recipe 7.5  Adding Markers to the Map](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_67.html#h1-177679c07-0005)
+    1. [	Recipe 7.6  Finding a User-Friendly Address Using Reverse Geocoding, and Vice Versa](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_68.html#h1-177679c07-0006)
+1. [Chapter 8: Location-Based Data Services](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_69.html)
+    1. [	Recipe 8.1  Obtaining Geographical Location Using GPS, Wi-Fi, or Cellular Networks](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_70.html#h1-177679c08-0001)
+    1. [	Recipe 8.2  Choosing the Best Location Provider to Use](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_71.html#h1-177679c08-0002)
+    1. [	Recipe 8.3  Monitoring a Location](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_72.html#h1-177679c08-0003)
+    1. [	Recipe 8.4  Using a BroadcastReceiver to Obtain Locations](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_73.html#h1-177679c08-0004)
+1. [Chapter 9: Accessing the Hardware](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_74.html)
+    1. [	Recipe 9.1  Capturing Pictures with the Camera](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_75.html#h1-177679c09-0001)
+    1. [	Recipe 9.2  Detecting the Presence of Hardware Features](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_76.html#h1-177679c09-0002)
+    1. [	Recipe 9.3  Checking Network State](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_77.html#h1-177679c09-0003)
+    1. [	Recipe 9.4  Turning GPS On/Off](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_78.html#h1-177679c09-0004)
+    1. [	Recipe 9.5  Capturing Hardware Buttons Programmatically](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_79.html#h1-177679c09-0005)
+    1. [	Recipe 9.6  Switching on the Flashlight](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_80.html#h1-177679c09-0006)
+1. [Chapter 10: Persisting Data](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_81.html)
+    1. [	Recipe 10.1  Saving and Loading User Preferences](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_82.html#h1-177679c10-0001)
+    1. [	Recipe 10.2  Creating a Preference Screen](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_83.html#h1-177679c10-0002)
+    1. [	Recipe 10.3  Saving Files to the Data Directory](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_84.html#h1-177679c10-0003)
+    1. [	Recipe 10.4  Saving Files to the Cache Directory](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_85.html#h1-177679c10-0004)
+    1. [	Recipe 10.5  Saving Files to External Storage](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_86.html#h1-177679c10-0005)
+    1. [	Recipe 10.6  Attaching Files to Your Project](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_87.html#h1-177679c10-0006)
+    1. [	Recipe 10.7  Creating and Using SQLite Databases Programmatically](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_88.html#h1-177679c10-0007)
+1. [Chapter 11: Deploying Your Android Applications](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_89.html)
+    1. [	Recipe 11.1  Localizing Your Application](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_90.html#h1-177679c11-0001)
+    1. [	Recipe 11.2  Exporting Your Application as an APK File](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_91.html#h1-177679c11-0002)
+    1. [	Recipe 11.3  Deploying Your App Through E-mail](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_92.html#h1-177679c11-0003)
+    1. [	Recipe 11.4  Deploying Your App Through the Web](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_93.html#h1-177679c11-0004)
+    1. [	Recipe 11.5  Deploying Your App Through an SD Card](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_94.html#h1-177679c11-0005)
+1. [Introduction](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_95.html)
+1. [Advertisements](https://ebookreading.net/view/book/Android+Application+Development+Cookbook%3A+93+Recipes+for+Building+Winning+Apps-EB9781118240281_96.html)

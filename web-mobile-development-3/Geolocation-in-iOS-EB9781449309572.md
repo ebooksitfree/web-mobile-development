@@ -1,0 +1,91 @@
+![Cover image for Geolocation in iOS](https://imgdetail.ebookreading.net/cover/cover/web_mobile/EB9781449309572.jpg)
+
+[Geolocation in iOS](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_1.html "Geolocation in iOS")
+====================================================================================================================
+
+Author : [Alasdair Allan](https://ebookreading.net/search/author/Alasdair+Allan)
+
+Release Date : 2012/10/01
+
+ISBN : 9781449309572
+
+Topic : [Web & Mobile](https://ebookreading.net/search/category/web-mobile)
+
+Book Description
+-----------------
+
+The iPhone and iPad allow user positioning via multiple methods, including GPS. The growing number location-aware, and location-fenced, applications now arriving in the App Store make heavy use of these abilities. This book walks you through the basic tools you need to build geo-aware applications before diving into the available third-party geo-SDKs available for the iOS platform.
+              
+Table of Contents
+-----------------
+
+1. [Geolocation in iOS](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_2.html)
+1. [SPECIAL OFFER: Upgrade this ebook with O’Reilly](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_3.html)
+1. [Preface](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_4.html)
+    1. [Who Should Read This Book?](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_4.html#who_should_read_thi)
+    1. [What Should You Already Know?](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_4.html#what_you_should_alr)
+    1. [What Will You Learn?](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_4.html#what_will_you_learn)
+    1. [What’s In This Book?](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_4.html#whatas_in_this_book)
+    1. [Conventions Used in This Book](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_4.html#conventions_used_in)
+    1. [Using Code Examples](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_4.html#using_code_examples)
+    1. [Safari® Books Online](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_4.html#I_sect1_d1e279)
+    1. [How to Contact Us](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_4.html#how_to_contact_us)
+    1. [Acknowledgments](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_4.html#acknowledgments)
+1. [1. Introduction](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_5.html)
+    1. [Hardware Support](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_5.html#hardware_support)
+    1. [Detecting Hardware Differences](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_5.html#detecting_hardware_)
+        1. [GPS Availability](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_5.html#gps_availability)
+        1. [Compass Availability](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_5.html#compass_availabilit)
+    1. [Setting Required Hardware Capabilities](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_5.html#setting_required_ha)
+        1. [Background Modes](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_5.html#background_modes)
+1. [2. Core Location](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_6.html)
+    1. [The Standard Location Service](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_6.html#the_standard_locati)
+        1. [Basic Usage](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_6.html#basic_usage)
+        1. [Reporting the User’s Position](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_6.html#reporting_the_usera)
+        1. [Adding a User Interface](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_6.html#adding_a_user_inter)
+    1. [Significant Location Monitoring](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_6.html#significant_locatio)
+        1. [Continuous Location Monitoring](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_6.html#continuous_location)
+        1. [Sending Your Location to a Database](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_6.html#sending_your_locati)
+            1. [Adding a database to your project](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_6.html#adding_a_database_t)
+            1. [Dealing with the database](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_6.html#dealing_with_the_da)
+            1. [Getting the results from your device](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_6.html#getting_the_results)
+    1. [Region Monitoring](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_6.html#region_monitoring)
+        1. [Adding Region Monitoring](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_6.html#adding_region_monit)
+        1. [Adding Local Notifications](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_6.html#adding_local_notifi)
+1. [3. Map Kit](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_7.html)
+    1. [Adding a Map](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_7.html#adding_a_map)
+    1. [Annotating Maps](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_7.html#annotating_maps)
+    1. [Adding Overlays](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_7.html#adding_overlays)
+1. [4. Digital Compass](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_8.html)
+    1. [About the Magnetometer](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_8.html#about_the_magnetome)
+    1. [Writing a Compass Application](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_8.html#writing_a_compass_a)
+        1. [Determining the Heading in Landscape Mode](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_8.html#determining_the_hea)
+1. [5. Geocoding](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_9.html)
+    1. [Reverse Geocoding](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_9.html#reverse_geocoding)
+        1. [Using Alternative Reverse Geocoding Services](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_9.html#using_alternative_r)
+    1. [Forward Geocoding](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_9.html#forward_geocoding)
+    1. [Building an Example App](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_9.html#building_an_example)
+        1. [CLPlacemark Objects](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_9.html#clplacemark_objects)
+        1. [Adding CLPlacemarks to Maps](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_9.html#adding_clplacemarks)
+1. [6. Drawing Heat Maps](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_10.html)
+    1. [Building an Earthquake Map](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_10.html#building_an_earth_q)
+        1. [Adding Earthquake Data](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_10.html#adding_earthquake_d)
+        1. [Building the User Interface](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_10.html#building_the_user_i)
+        1. [Adding the Overlay](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_10.html#adding_the_overlay)
+        1. [Adding the Heat Map](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_10.html#adding_the_heat_map)
+        1. [Overlaying Other Data](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_10.html#overlaying_other_da)
+    1. [Overlaying Other Types of Images](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_10.html#overlaying_other_ty)
+1. [7. Further Information and Third-Party SDKs](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_11.html)
+    1. [Skyhook Wireless](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_11.html#skyhook_wireless)
+        1. [SpotRank](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_11.html#spot_rank)
+        1. [Local Faves](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_11.html#local_faves)
+    1. [GeoLoqi](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_11.html#geoloqi)
+    1. [MapBox](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_11.html#mapbox)
+    1. [Bing Maps Control for iOS](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_11.html#bing_maps_control_f)
+    1. [ArcGIS for iOS](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_11.html#arcgis_for_ios)
+    1. [Urban Airship](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_11.html#urban_airship)
+    1. [Foursquare](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_11.html#foursquare)
+1. [About the Author](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_12.html)
+1. [Colophon](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_13.html)
+1. [SPECIAL OFFER: Upgrade this ebook with O’Reilly](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_14.html)
+1. [Copyright](https://ebookreading.net/view/book/Geolocation+in+iOS-EB9781449309572_15.html)

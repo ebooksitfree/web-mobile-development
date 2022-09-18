@@ -1,0 +1,137 @@
+![Cover image for Mastering Xamarin.Forms - Second Edition](https://imgdetail.ebookreading.net/cover/cover/web_mobile/EB9781788290265.jpg)
+
+[Mastering Xamarin.Forms - Second Edition](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_1.html "Mastering Xamarin.Forms - Second Edition")
+====================================================================================================================
+
+Author : [Ed Snider](https://ebookreading.net/search/author/Ed+Snider)
+
+Release Date : 2018/03/01
+
+ISBN : 9781788290265
+
+Topic : [Web & Mobile](https://ebookreading.net/search/category/web-mobile)
+
+Book Description
+-----------------
+
+ Create high-quality multi-platform native apps with Xamarin.Forms
+About This Book
+Packed with real-world scenarios and solutions to help you build professional-grade mobile apps with Xamarin.FormsBuild an effective mobile app architecture with the Xamarin.Forms toolkitFind out how, when, and why you should use architectural patterns and get best practices with Xamarin.FormsWho This Book Is For
+This book is intended for C# developers who are familiar with the Xamarin platform and the Xamarin.Forms toolkit. If you have already started working with Xamarin.Forms and want to take your app to the next level with higher quality, maintainability, testability, and flexibility, then this book is for you.
+What You Will Learn
+Implement the Model-View-View-Model (MVVM) pattern and data-binding in Xamarin.Forms mobile appsExtend the Xamarin.Forms navigation API with a custom ViewModel-centric navigation serviceLeverage the inversion of control and dependency injection patterns in Xamarin.Forms mobile appsWork with online and offline data in Xamarin.Forms mobile appsTest business logic in Xamarin.Forms mobile appsUse platform-specific APIs to build rich custom user interfaces in Xamarin.Forms mobile appsExplore how to improve mobile app quality using Visual Studio AppCenterIn Detail
+Discover how to extend and build upon the components of the Xamarin.Forms toolkit to develop an effective, robust mobile app architecture. Starting with an app built with the basics of the Xamarin.Forms toolkit, you'll go step by step through several advanced topics to create a solution architecture rich with the benefits of good design patterns and best practices.
+You'll start by introducing a core separation between the app's user interface and its business logic by applying the MVVM pattern and data-binding. Then you focus on building out a layer of plugin-like services that handle platform-specific utilities such as navigation and geo-location, and on how to loosely use these services in the app with inversion of control and dependency injection. Next you connect the app to a live web-based API and set up offline synchronization. Then, you delve into testing the app logic through unit tests. Finally, you set up Visual Studio App Center for monitoring usage and bugs to gain a proactive edge on app quality.
+Style and approach
+This easy-to-follow, code-rich guide will walk you through building a real-world Xamarin.Forms mobile app from start to finish. Each chapter builds on the app by applying new advanced capabilities, design patterns, and best practices. Packed with real-world scenarios, this step-by-step guide will help you quickly build professional-grade apps with Xamarin.Forms.
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Title Page](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_2.html)
+1. [Copyright and Credits](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_3.html)
+    1. [Mastering Xamarin.Forms Second Edition](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_4.html)
+1. [Dedication](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_5.html)
+1. [www.packtpub.com](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_6.html)
+    1. [Why subscribe?](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_7.html)
+    1. [PacktPub.com](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_8.html)
+1. [Foreword](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_9.html)
+1. [Contributors](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_10.html)
+    1. [About the author](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_11.html)
+    1. [Acknowledgments](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_12.html)
+    1. [About the reviewer](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_13.html)
+    1. [Packt is searching for authors like you](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_14.html)
+1. [Preface](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_16.html)
+    1. [Who this book is for](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_17.html)
+    1. [What this book covers](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_18.html)
+    1. [To get the most out of this book](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_19.html)
+        1. [Download the example code files](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_20.html)
+        1. [Conventions used](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_21.html)
+    1. [Get in touch](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_22.html)
+        1. [Reviews](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_23.html)
+1. [Getting Started](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_24.html)
+    1. [Introducing the app idea](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_25.html)
+        1. [Defining features](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_26.html)
+    1. [Creating the initial app](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_27.html)
+        1. [Setting up the solution](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_28.html)
+            1. [Updating the Xamarin.Forms packages](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_29.html)
+        1. [Creating the main page](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_30.html)
+        1. [Creating the new entry page](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_31.html)
+        1. [Creating the entry detail page](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_32.html)
+    1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_33.html)
+1. [MVVM and Data Binding](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_34.html)
+    1. [Understanding the MVVM pattern](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_35.html)
+    1. [Adding MVVM to the app](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_36.html)
+        1. [Setting up the app structure](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_37.html)
+        1. [Adding ViewModels](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_38.html)
+            1. [Adding MainViewModel](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_39.html)
+            1. [Adding DetailViewModel](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_40.html)
+            1. [Adding NewEntryViewModel](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_41.html)
+    1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_42.html)
+1. [Navigation](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_43.html)
+    1. [The Xamarin.Forms navigation API](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_44.html)
+    1. [Navigation and MVVM](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_45.html)
+        1. [The ViewModel-centric navigation](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_46.html)
+    1. [Creating a navigation service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_47.html)
+        1. [Updating the TripLog app](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_48.html)
+            1. [Updating BaseViewModel](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_49.html)
+            1. [Updating MainViewModel](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_50.html)
+                1. [Initializing MainViewModel](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_51.html)
+            1. [Updating NewEntryViewModel](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_52.html)
+            1. [Updating DetailPage](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_53.html)
+    1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_54.html)
+1. [Platform Specific Services and Dependency Injection](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_55.html)
+    1. [Inversion of control and dependency injection in mobile apps](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_56.html)
+    1. [Xamarin.Forms DependencyService versus third-party alternatives](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_57.html)
+    1. [Creating and using platform-specific services](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_58.html)
+        1. [Creating a location service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_59.html)
+        1. [Using the location service on the new entry page](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_60.html)
+        1. [Adding the location service implementation](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_61.html)
+    1. [Registering dependencies](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_62.html)
+        1. [Registering the platform-service implementations](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_63.html)
+        1. [Registering the ViewModels](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_64.html)
+        1. [Registering the navigation service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_65.html)
+        1. [Updating the TripLog app](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_66.html)
+        1. [Updating the navigation service to handle ViewModel creation and dependency injection](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_67.html)
+    1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_68.html)
+1. [User Interface](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_69.html)
+    1. [Custom renderers](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_70.html)
+        1. [Creating a TableView DatePicker](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_71.html)
+    1. [Value converters](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_72.html)
+        1. [Creating a reverse visibility value converter](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_73.html)
+        1. [Creating an integer to image value converter](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_74.html)
+    1. [Adding pull-to-refresh](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_75.html)
+    1. [Accessibility&amp;#xA0;](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_76.html)
+        1. [Supporting screen readers](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_77.html)
+    1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_78.html)
+1. [API Data Access](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_79.html)
+    1. [Creating an API with Microsoft&#39;s Azure App Service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_80.html)
+        1. [Browsing and adding data](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_81.html)
+    1. [Creating a base HTTP service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_82.html)
+    1. [Creating an API data service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_83.html)
+        1. [Updating the TripLog app ViewModels](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_84.html)
+    1. [Offline data caching](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_85.html)
+        1. [Adding the Akavache library](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_86.html)
+        1. [Maintaining an offline data cache](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_87.html)
+    1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_88.html)
+1. [Authentication](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_89.html)
+    1. [Adding identity and authentication to Azure Mobile Apps](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_90.html)
+        1. [Setting up permissions](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_91.html)
+        1. [Setting up an identity provider](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_92.html)
+    1. [Creating an authentication service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_93.html)
+    1. [Adding a sign in page](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_94.html)
+    1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_95.html)
+1. [Testing](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_96.html)
+    1. [Unit testing](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_97.html)
+        1. [Testing ViewModels](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_98.html)
+        1. [Running unit tests in Visual Studio](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_99.html)
+    1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_100.html)
+1. [App Monitoring](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_101.html)
+    1. [Mobile app analytics and crash reporting](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_102.html)
+    1. [Visual Studio App Center](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_103.html)
+        1. [Setting up Visual Studio App Center](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_104.html)
+        1. [Creating an analytics service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_105.html)
+        1. [Tracking exceptions and events](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_106.html)
+    1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_107.html)
+1. [Other Books You May Enjoy](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_108.html)
+    1. [Leave a review - let other readers know what you think](https://ebookreading.net/view/book/Mastering+Xamarin.Forms+-+Second+Edition-EB9781788290265_109.html)

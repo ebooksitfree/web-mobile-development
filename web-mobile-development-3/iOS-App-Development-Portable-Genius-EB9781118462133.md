@@ -1,0 +1,111 @@
+![Cover image for iOS App Development Portable Genius](https://imgdetail.ebookreading.net/cover/cover/web_mobile/EB9781118462133.jpg)
+
+[iOS App Development Portable Genius](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_1.html "iOS App Development Portable Genius")
+====================================================================================================================
+
+Author : [Richard Wentk](https://ebookreading.net/search/author/Richard+Wentk)
+
+Release Date : 2012/08/01
+
+ISBN : 9781118462133
+
+Topic : [Web & Mobile](https://ebookreading.net/search/category/web-mobile)
+
+Book Description
+-----------------
+
+The essential skills and technologies needed for iOS development in one handy guide!
+The unprecedented popularity of iOS devices, such as the iPhone, iPad, and iPod touch, has led to a development boom. If you're eager to become part of the action, then this is the book for you! Packed with must-have information on iOS development, this handy guide covers Objective-C, Xcode, Frameworks, and sound design principles and explains how to upload an app to the app store and integrate apps with the latest advances that Apple offers developers. The featured tips and tricks will get you up and running and sharpen your skills as an iOS developer.
+Gets savvy beginning developers started with iOS development while also keeping experienced iOS developers up to date on the latest in this field
+Features easy-to-follow instructions on the strong and stable iOS platform
+iOS Development Portable Genius covers all the essentials you need to get started with iOS development today.
+              
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_1.html)
+1. [Table of Contents](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_2.html)
+1. [Title Page](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_3.html)
+1. [Chapter 1: How Can I Start Developing for iOS?](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_4.html)
+    1. [Getting Started with  App Development](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_5.html#a2)
+    1. [Choosing a Mac](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_6.html#a3)
+    1. [Joining the iOS Developer Program](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_7.html#a9)
+    1. [Downloading and Installing Xcode](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_8.html#a12)
+1. [Chapter 2: How Do I Get Started with Xcode?](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_9.html)
+    1. [Understanding Xcode](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_10.html#a2_05_9781118462133)
+    1. [Introducing Xcode’s User Interface](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_11.html#a3_05_9781118462133)
+    1. [Introducing iOS and the  Apple Documentation](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_12.html#a10_05_978111846213)
+    1. [Getting Further Help](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_13.html#a16_05_978111846213)
+    1. [Putting It All Together](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_14.html#a17)
+1. [Chapter 3: How Do I Build and Run an Application?](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_15.html)
+    1. [Building Applications](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_16.html#a2_06_9781118462133)
+    1. [Understanding Xcode’s  Project Templates](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_17.html#a6_06_9781118462133)
+    1. [Building Apps from Sample Code](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_18.html#a10_06_978111846213)
+    1. [Building Apps for Test Devices](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_19.html#a13_06_978111846213)
+1. [Chapter 4: What Are Applications Made Of?](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_20.html)
+    1. [Understanding Applications](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_21.html#a2_07_9781118462133)
+    1. [Understanding App Structure](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_22.html#a8_07_9781118462133)
+    1. [Introducing Views, Nib Files,  and Storyboards](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_23.html#a11_07_978111846213)
+    1. [Understanding Views and Controllers](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_24.html#a16_07_978111846213)
+    1. [Appreciating Graphic Design](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_25.html#a21)
+    1. [Summarizing  UI Creation](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_26.html#a22)
+1. [Chapter 5: How Do I Create Code?](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_27.html)
+    1. [Introducing Code Design](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_28.html#a2_08_9781118462133)
+    1. [Editing and Building Code](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_29.html#a5_08_9781118462133)
+    1. [Understanding Errors and Warnings](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_30.html#a6_08_9781118462133)
+    1. [Understanding the C Language](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_31.html#a10_08_978111846213)
+1. [Chapter 6: How Do I Use Objects in My Code?](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_32.html)
+    1. [Moving from C to Objective-C](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_33.html#a2_09_9781118462133)
+    1. [Introducing Objective-C Code](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_34.html#a7_09_9781118462133)
+    1. [Defining Classes in Your App](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_35.html#a10_09_978111846213)
+    1. [Going Deeper with Objective-C](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_36.html#a16_09_978111846213)
+1. [Chapter 7: How Can I Use Objects to Manage Data and Schedule Events?](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_37.html)
+    1. [Managing Text with NSString](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_38.html#a2_10_9781118462133)
+    1. [Managing Data Collections](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_39.html#a5_10_9781118462133)
+    1. [Scheduling Events](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_40.html#a12_10_978111846213)
+1. [Chapter 8: How Do I Handle Input from the User?](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_41.html)
+    1. [Understanding User Interaction](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_42.html#a2_11_9781118462133)
+    1. [Working with Action Messages](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_43.html#a5_11_9781118462133)
+    1. [Creating and Using Outlets](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_44.html#a8_11_9781118462133)
+    1. [Using the Responder System](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_45.html#a11_11_978111846213)
+    1. [Subclassing in IB](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_46.html#a18_11_978111846213)
+1. [Chapter 9: What Are Frameworks and How Do I Use Them?](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_47.html)
+    1. [Understanding Frameworks](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_48.html#a2_12_9781118462133)
+    1. [Adding an iOS Framework to a Project](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_49.html#a5_12_9781118462133)
+    1. [Understanding Delegates  and Protocols](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_50.html#a10_12_978111846213)
+    1. [Adding a Third-Party Framework  to a Project](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_51.html#a13_12_978111846213)
+1. [Chapter 10: How Do I Add Custom Graphics to My App?](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_52.html)
+    1. [Understanding UI Design](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_53.html#a2_13_9781118462133)
+    1. [Sourcing Custom Graphics](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_54.html#a5_13_9781118462133)
+    1. [Using Custom Graphics](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_55.html#a9_13_9781118462133)
+    1. [Drawing Graphics with Code](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_56.html#a15_13_978111846213)
+    1. [Swapping Screens](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_57.html#a18_13_978111846213)
+    1. [Managing Rotation](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_58.html#a22_13_978111846213)
+    1. [Adding Animations](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_59.html#a25)
+1. [Chapter 11: How Do I Add Other Standard App Features?](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_60.html)
+    1. [Multitasking](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_61.html#a2_14_9781118462133)
+    1. [Managing Memory](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_62.html#a7_14_9781118462133)
+    1. [Working with Files](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_63.html#a10_14_978111846213)
+    1. [Playing Sounds and Videos](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_64.html#a11_14_978111846213)
+    1. [Connecting to the Internet](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_65.html#a13_14_978111846213)
+    1. [Creating Preferences](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_66.html#a16_14_978111846213)
+    1. [Localizing Apps](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_67.html#a20_14_978111846213)
+1. [Chapter 12: How Do I Test and  Fix My App?](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_68.html)
+    1. [Testing Apps](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_69.html#a2_15_9781118462133)
+    1. [Using the Xcode Debugger](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_70.html#a6_15_9781118462133)
+    1. [Getting Started with Instruments](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_71.html#a12_15_978111846213)
+1. [Chapter 13: How Do I Distribute Apps for Sale and Testing?](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_72.html)
+    1. [Understanding App Distribution](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_73.html#a2_16_9781118462133)
+    1. [Creating a Digital Identity](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_74.html#a5_16_9781118462133)
+    1. [Creating an App ID](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_75.html#a8_16_9781118462133)
+    1. [Adding Test Devices](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_76.html#a12_16_978111846213)
+    1. [Creating and Installing  Distribution Profiles](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_77.html#a15_16_978111846213)
+    1. [Creating an Ad Hoc Build](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_78.html#a18_16_978111846213)
+    1. [Uploading to the App Store](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_79.html#a22_16_978111846213)
+1. [Appendix A: C Cheat Sheet](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_80.html)
+    1. [C Data Types](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_81.html#a2_17_9781118462133)
+    1. [C Storage Classes](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_82.html#a3_17_9781118462133)
+    1. [Composite C Data Types](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_83.html#a4_17_9781118462133)
+    1. [C Statements and Functions](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_84.html#a5_17_9781118462133)
+    1. [Comparing C and Objective-C](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_85.html#a6_17_9781118462133)
+    1. [NSLog and printf Format Specifiers](https://ebookreading.net/view/book/iOS+App+Development+Portable+Genius-EB9781118462133_86.html#a7_17_9781118462133)
