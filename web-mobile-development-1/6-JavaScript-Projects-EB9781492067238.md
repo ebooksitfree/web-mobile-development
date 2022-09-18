@@ -1,0 +1,103 @@
+![Cover image for 6 JavaScript Projects](https://imgdetail.ebookreading.net/cover/cover/web_mobile/EB9781492067238.jpg)
+
+[6 JavaScript Projects](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_1.html "6 JavaScript Projects")
+====================================================================================================================
+
+Author : [Adam Janes](https://ebookreading.net/search/author/Adam+Janes),[ Darren Jones](https://ebookreading.net/search/author/+Darren+Jones),[ Michael Wanyoike](https://ebookreading.net/search/author/+Michael+Wanyoike),[ Michaela Lehr](https://ebookreading.net/search/author/+Michaela+Lehr)
+
+Release Date : 2018/05/01
+
+ISBN : 9781492067238
+
+Topic : [Web & Mobile](https://ebookreading.net/search/category/web-mobile)
+
+Book Description
+-----------------
+
+ There's no doubt that the JavaScript ecosystem changes fast. Not only are new tools and frameworks introduced and developed at a rapid rate, the language itself has undergone big changes with the introduction of ES2015 (aka ES6). Understandably, many articles have been written complaining about how difficult it is to learn modern JavaScript development these days. We're aiming to minimize that confusion with this set of books on modern JavaScript.
+This book presents six complete JavaScript projects; each taking advantage of modern JavaScript and its ecosystem. You'll learn to build several different apps, and along the way you'll pick up a ton of useful advice, tips, and techniques. It contains:
+Build a Full-Sphere 3D Image Gallery with React VR by Michaela LehrBuild a WebRTC Video Chat Application with SimpleWebRTC by Michael WanyoikeBuild a JavaScript Single Page App Without a Framework by Michael WanyoikeBuild a To-do List with Hyperapp, the 1KB JS Micro-framework by Darren JonesUse Parcel to Bundle a Hyperapp App &amp; Deploy to GitHub Pages by Darren JonesInteractive Data Visualization with Modern JavaScript and D3 by Adam JanesThis book is for all front-end developers who wish to improve their JavaScript skills. You'll need to be familiar with HTML and CSS and have a reasonable level of understanding of JavaScript in order to follow the discussion. 
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [6 JavaScript Projects](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_1.html)
+1. [Notice of Rights](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_1.html#sigil_toc_id_1)
+1. [Notice of Liability](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_1.html#sigil_toc_id_2)
+1. [Trademark Notice](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_1.html#sigil_toc_id_3)
+1. [About SitePoint](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_1.html#sigil_toc_id_4)
+1. [Preface](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_2.html)
+    1. [Who Should Read This Book?](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_2.html#who-should-read-thi)
+    1. [Conventions Used](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_2.html#preface-conventions)
+        1. [Code Samples](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_2.html#sigil_toc_id_5)
+        1. [Tips, Notes, and Warnings](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_2.html#preface-tips)
+1. [Chapter 1: Build a Full-Sphere 3D Image Gallery with React VR](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_3.html)
+    1. [by Michaela Lehr](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_3.html#sigil_toc_id_6)
+    1. [Development Setup and Project Structure](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_3.html#developmentsetupand)
+    1. [Adding a Spherical Image to the Scene](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_3.html#addingasphericalima)
+    1. [Create a UI Component to Hold Four Buttons](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_3.html#createauicomponentt)
+    1. [Add Animations for Button State Transitions](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_3.html#addanimationsforbut)
+    1. [Building and Testing the Application](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_3.html#buildingandtestingt)
+    1. [Further Resources](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_3.html#furtherresources)
+1. [Chapter 2: Build a WebRTC Video Chat Application with SimpleWebRTC](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_4.html)
+    1. [by Michael Wanyoike](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_4.html#sigil_toc_id_7)
+    1. [What is SimpleWebRTC](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_4.html#whatissimplewebrtc)
+    1. [Building the WebRTC Video Chat App](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_4.html#buildingthewebrtcvi)
+    1. [Dependencies](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_4.html#dependencies)
+    1. [Project Setup](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_4.html#projectsetup)
+    1. [Markup](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_4.html#markup)
+    1. [Templates](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_4.html#templates)
+    1. [Main App Script](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_4.html#mainappscript)
+    1. [Chat Room Script](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_4.html#chatroomscript)
+    1. [Remote Video Camera](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_4.html#remotevideocamera)
+    1. [Deployment](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_4.html#deployment)
+    1. [Conclusion](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_4.html#conclusion)
+1. [Chapter 3: Build a JavaScript Single Page App Without a Framework](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_5.html)
+    1. [by Michael Wanyoike](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_5.html#sigil_toc_id_8)
+    1. [Prerequisites](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_5.html#prerequisites)
+    1. [Building the Project](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_5.html#buildingtheproject)
+    1. [Project Directories and Dependencies](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_5.html#projectdirectoriesa)
+    1. [Application Base](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_5.html#applicationbase)
+    1. [Front-end Skeleton Templates](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_5.html#frontendskeletontem)
+    1. [Client-side Routing](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_5.html#clientsiderouting)
+    1. [Latest Currency Rates](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_5.html#latestcurrencyrates)
+    1. [Exchange Conversion](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_5.html#exchangeconversion)
+    1. [Historical Currency Rates](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_5.html#historicalcurrencyr)
+    1. [Summary](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_5.html#summary)
+1. [Chapter 4: Build a To-do List with Hyperapp, the 1KB JS Micro-framework](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_6.html)
+    1. [by Darren Jones](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_6.html#sigil_toc_id_9)
+    1. [So, What Is HyperApp?](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_6.html#sowhatishyperapp)
+    1. [Getting Started](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_6.html#gettingstarted)
+    1. [Hello Hyperapp!](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_6.html#hellohyperapp)
+    1. [Components](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_6.html#components)
+    1. [State](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_6.html#state)
+    1. [Actions](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_6.html#actions)
+    1. [Hyperlist](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_6.html#hyperlist)
+    1. [Initial State and View](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_6.html#initialstateandview)
+    1. [Adding a Task](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_6.html#addingatask)
+    1. [Mark a Task as Completed](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_6.html#markataskascomplete)
+    1. [Delete a Task](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_6.html#deleteatask)
+    1. [Delete All Completed Tasks](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_6.html#deleteallcompletedt)
+    1. [That’s All, Folks](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_6.html#thatsallfolks)
+1. [Chapter 5: Use Parcel to Bundle a Hyperapp App &amp; Deploy to GitHub Pages](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_7.html)
+    1. [by Darren Jones](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_7.html#sigil_toc_id_10)
+    1. [Basic Setup](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_7.html#basicsetup)
+    1. [Folder Structure](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_7.html#folderstructure)
+    1. [Some Basic HTML](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_7.html#somebasichtml)
+    1. [ES6 Modules](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_7.html#es6modules)
+    1. [Add Some Style](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_7.html#addsomestyle)
+    1. [Babel](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_7.html#babel)
+    1. [Parcel](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_7.html#parcel)
+    1. [npm Scripts](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_7.html#npmscripts)
+    1. [Deploying to GitHub Pages](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_7.html#deployingtogithubpa)
+    1. [Workflow](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_7.html#workflow)
+    1. [That’s All, Folks!](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_7.html#thatsallfolks)
+1. [Chapter 6: Interactive Data Visualization with Modern JavaScript and D3](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_8.html)
+    1. [by Adam Janes](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_8.html#sigil_toc_id_11)
+    1. [The Project](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_8.html#theproject)
+    1. [Sketching](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_8.html#sketching)
+    1. [Borrowing Code](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_8.html#borrowingcode)
+    1. [Walking Through Our Code](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_8.html#walkingthroughourco)
+    1. [Adapting Code](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_8.html#adaptingcode)
+    1. [Making it Dynamic](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_8.html#makingitdynamic)
+    1. [Making it Interactive](https://ebookreading.net/view/book/6+JavaScript+Projects-EB9781492067238_8.html#makingitinteractive)

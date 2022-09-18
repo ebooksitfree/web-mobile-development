@@ -1,0 +1,101 @@
+![Cover image for Beginning API Development with Node.js](https://imgdetail.ebookreading.net/cover/cover/web_mobile/EB9781789539660.jpg)
+
+[Beginning API Development with Node.js](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_1.html "Beginning API Development with Node.js")
+====================================================================================================================
+
+Author : [Anthony Nandaa](https://ebookreading.net/search/author/Anthony+Nandaa)
+
+Release Date : 2018/07/01
+
+ISBN : 9781789539660
+
+Topic : [Web & Mobile](https://ebookreading.net/search/category/web-mobile)
+
+Book Description
+-----------------
+
+ Learn everything you need to get up and running with cutting-edge API development using JavaScript and Node.js; ideal for data-intensive real-time applications that run across multiple platforms.
+Key FeaturesBuild web APIs from start to finish using JavaScript across the development stack Explore advanced concepts such as authentication with JWT, and running tests against your APIs Implement over 20 practical activities and exercises across 9 topics to reinforce your learning Using the same framework to build both server and client-side applications saves you time and money. This book teaches you how you can use JavaScript and Node.js to build highly scalable APIs that work well with lightweight cross-platform client applications. It begins with the basics of Node.js in the context of backend development, and quickly leads you through the creation of an example client that pairs up with a fully authenticated API implementation. By the end of the book, you'll have the skills and exposure required to get hands-on with your own API development project.
+What you will learnUnderstand how Node.js works, its trends, and where it is being used now Learn about application modularization and built-in Node.js modules Use the npm third-party module registry to extend your application Gain an understanding of asynchronous programming with Node.js Develop scalable and high-performing APIs using hapi.js and Knex.js Write unit tests for your APIs to ensure reliability and maintainabilityWho this book is forThis book is ideal for developers who already understand JavaScript and are looking for a quick no-frills introduction to API development with Node.js. Though prior experience with other server-side technologies such as Python, PHP, ASP.NET, Ruby will help, it's not essential to have a background in backend development before getting started.
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Title Page](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_2.html)
+1. [Copyright and Credits](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_3.html)
+    1. [Beginning API Development with Node.js](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_4.html)
+1. [Packt Upsell](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_5.html)
+    1. [Why Subscribe?](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_6.html)
+    1. [PacktPub.com](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_7.html)
+1. [Contributors](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_8.html)
+    1. [About the Author](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_9.html)
+    1. [About the Reviewer](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_10.html)
+    1. [Packt Is Searching for Authors like You](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_11.html)
+1. [Preface](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_13.html)
+    1. [Who This Book Is For](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_14.html)
+    1. [What This Book Covers](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_15.html)
+    1. [To Get the Most out of This Book](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_16.html)
+        1. [Download the Example Code Files](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_17.html)
+        1. [Conventions Used](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_18.html)
+    1. [Get in Touch](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_19.html)
+        1. [Reviews](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_20.html)
+1. [Introduction to Node.js](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_21.html)
+    1. [The Basics of Node.js](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_22.html)
+        1. [Applications of Node.js](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_23.html)
+        1. [Activity: Running Basic Node.js Code](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_24.html)
+    1. [The Module System](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_25.html)
+        1. [Application Modularization](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_26.html)
+        1. [Module Categories](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_27.html)
+            1. [Built-In Modules](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_28.html)
+            1. [npm&amp;#xA0;&amp;#x2013; Third-Party Module Registry](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_29.html)
+            1. [Scanning for node_modules](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_30.html)
+            1. [Handy npm Commands](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_31.html)
+            1. [Local Modules](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_32.html)
+        1. [Activity: Using a Third-Party Package for the Previous math.js Code](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_33.html)
+    1. [Asynchronous Programming with Node.js](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_34.html)
+        1. [Callbacks](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_35.html)
+        1. [Promises](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_36.html)
+        1. [Async/Await](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_37.html)
+        1. [Activity: Transforming a Text File Using an Async Function](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_38.html)
+    1. [Summary](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_39.html)
+1. [Building the API - Part 1](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_40.html)
+    1. [Building a Basic HTTP Server](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_41.html)
+    1. [Setting up Hapi.js](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_42.html)
+        1. [Exercise 1: Building a Basic Hapi.js Server](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_43.html)
+        1. [Using an API Client](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_44.html)
+        1. [Returning JSON Strings](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_45.html)
+        1. [Exercise 2: Returning JSON](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_46.html)
+        1. [Using nodemon for Development Workflow](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_47.html)
+        1. [Exercise 3: Using nodemon](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_48.html)
+        1. [Setting up the Logger](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_49.html)
+        1. [Exercise 4: Setting up the Logger](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_50.html)
+    1. [Understanding Requests](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_51.html)
+        1. [A Look at HTTP Request Methods](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_52.html)
+        1. [Exercise 5:&amp;#xA0;Getting a List of Resources](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_53.html)
+        1. [Exercise 6: Getting a Specific Resource](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_54.html)
+        1. [Exercise 7: Creating a New Todo with POST](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_55.html)
+        1. [Exercise 8: Updating a Resource with PUT](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_56.html)
+        1. [Exercise 9: Updating with PATCH](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_57.html)
+        1. [Exercise 10: Deleting a Resource with DELETE](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_58.html)
+        1. [Request Validation](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_59.html)
+        1. [Exercise 11: Validating a Request](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_60.html)
+    1. [Summary](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_61.html)
+1. [Building the API - Part 2](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_62.html)
+    1. [Working with the DB Using Knex.js](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_63.html)
+        1. [Exercise 12: Setting up the Database](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_64.html)
+        1. [Exercise 13: Connecting to the Database](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_65.html)
+        1. [Exercise 14: Creating a Record](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_66.html)
+        1. [Exercise 15: Reading from the Database](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_67.html)
+        1. [Exercise 16: Updating a Record](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_68.html)
+        1. [Exercise 17: Deleting a Record](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_69.html)
+        1. [Exercise 18:&amp;#xA0;Cleaning up the Code](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_70.html)
+    1. [Authenticating Your API with JWT](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_71.html)
+        1. [Exercise 19: Securing All the Routes](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_72.html)
+        1. [Exercise 20:&amp;#xA0;Adding User Authentication](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_73.html)
+        1. [Authentication versus Authorization](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_74.html)
+        1. [Exercise 21: Implementing Authorization](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_75.html)
+    1. [Testing Your API with Lab](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_76.html)
+        1. [Exercise 22: Writing Basic Tests with Lab](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_77.html)
+    1. [Summary](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_78.html)
+1. [Other Books You May Enjoy](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_79.html)
+    1. [Leave a review - let other readers know what you think](https://ebookreading.net/view/book/Beginning+API+Development+with+Node.js-EB9781789539660_80.html)

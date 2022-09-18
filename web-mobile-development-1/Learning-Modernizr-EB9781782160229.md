@@ -1,0 +1,115 @@
+![Cover image for Learning Modernizr](https://imgdetail.ebookreading.net/cover/cover/web_mobile/EB9781782160229.jpg)
+
+[Learning Modernizr](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_1.html "Learning Modernizr")
+====================================================================================================================
+
+Author : [Adam Watson](https://ebookreading.net/search/author/Adam+Watson)
+
+Release Date : 2012/12/01
+
+ISBN : 9781782160229
+
+Topic : [Web & Mobile](https://ebookreading.net/search/category/web-mobile)
+
+Book Description
+-----------------
+
+Create forward compatible websites using feature detection features of HTML5 Modernizr.
+Build a progressive experience using a vast array of detected CSS3 features Replace images with CSS based counterpartsLearn the benefits of detecting features instead of checking the name and version of the browser and serving accordinglyIn Detail
+Modern web browsers support a whole range of new HTML5 and CSS3 features that make web development fun. But supporting old browsers can make a web developer's life difficult. With HTML5 Modernizr, you can check for features and deliver a design around them that is not only backward, but also forward compatible.
+"Learning HTML5 Modernizr" will guide you step by step through the process of converting to a feature rich CSS3 experience using the Modernizr feature detection JavaScript library. With this book, you can take an image-based design and gradually convert it to be 100 percent CSS based using Modernizr to detect feature support.
+You will also learn how to implement the bulk of today’s leading CSS3 features not limited to animations, text shadow, content generation, and more. You will also learn to change the page using media queries to determine the dimensions of the page and alter the content accordingly as well as HTML5 features such as localstorage so you can save content to the browser.
+You will learn everything you need to know in order to design progressively using feature detection. Prepare your design to not just handle legacy browsers, but additionally for the HTML5 standard features you know will be added into subsequent versions of the browser.
+              
+Table of Contents
+-----------------
+
+1. [Learning Modernizr](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_3.html)
+    1. [Table of Contents](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_2.html)
+    1. [Learning Modernizr](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_4.html)
+    1. [Credits](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_5.html)
+    1. [About the Author](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_6.html)
+    1. [About the Reviewers](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_7.html)
+    1. [www.PacktPub.com](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_8.html)
+        1. [Support files, eBooks, discount offers and more](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_8.html#ch00lvl3sec01)
+            1. [Why Subscribe?](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_8.html#ch00lvl4sec01)
+            1. [Free Access for Packt account holders](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_8.html#ch00lvl4sec02)
+    1. [Preface](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_9.html)
+        1. [What this book covers](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_9.html#ch00lvl1sec02)
+        1. [What you need for this book](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_10.html)
+        1. [Who this book is for](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_11.html)
+        1. [Conventions](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_12.html)
+        1. [Reader feedback](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_13.html)
+        1. [Customer support](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_14.html)
+            1. [Downloading the example code](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_14.html#ch00lvl2sec02)
+            1. [Errata](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_14.html#ch00lvl2sec03)
+            1. [Piracy](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_14.html#ch00lvl2sec04)
+            1. [Questions](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_14.html#ch00lvl2sec05)
+    1. [1. Getting Started with Modernizr](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_15.html)
+        1. [Detect and design with features, not User Agents (browsers)](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_15.html#ch01lvl1sec08)
+            1. [The Modernizr namespace](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_15.html#ch01lvl2sec06)
+            1. [Supporting features with CSS selectors](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_15.html#ch01lvl2sec07)
+        1. [Focusing on features, not browsers](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_16.html)
+            1. [What&#39;s wrong with browser sniffing?](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_16.html#ch01lvl2sec08)
+            1. [User Agent sniffing – a big headache and a little payoff](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_16.html#ch01lvl2sec09)
+        1. [Summary](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_17.html)
+    1. [2. Installing Modernizr](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_18.html)
+        1. [Creating the foundation](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_18.html#ch02lvl1sec11)
+            1. [Using conditional comments](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_18.html#ch02lvl2sec10)
+            1. [The no-js class](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_18.html#ch02lvl2sec11)
+        1. [Downloading the Modernizr library](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_19.html)
+            1. [Verifying the script connection](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_19.html#ch02lvl2sec12)
+        1. [Blocking versus non blocking](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_20.html)
+            1. [The async attribute](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_20.html#ch02lvl2sec13)
+            1. [Blocking to allow shimming](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_20.html#ch02lvl2sec14)
+            1. [Adding the navigation](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_20.html#ch02lvl2sec15)
+            1. [The section frames](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_20.html#ch02lvl2sec16)
+        1. [Styling the page](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_21.html)
+            1. [Smoother transitions with jQuery](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_21.html#ch02lvl2sec17)
+        1. [Determining the base experience](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_22.html)
+            1. [Images for icons](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_22.html#ch02lvl2sec18)
+            1. [Opacity](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_22.html#ch02lvl2sec19)
+            1. [Hex colors](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_22.html#ch02lvl2sec20)
+            1. [HTML5 semantic elements](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_22.html#ch02lvl2sec21)
+            1. [Custom fonts](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_22.html#ch02lvl2sec22)
+            1. [Fixed positioning](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_22.html#ch02lvl2sec23)
+        1. [The core HTML](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_23.html)
+        1. [Google fonts API](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_24.html)
+        1. [The CSS](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_25.html)
+        1. [Summary](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_26.html)
+    1. [3. Using Modernizr the Right Way](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_27.html)
+        1. [Frame 1 – swapping images for CSS](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_27.html#ch03lvl1sec20)
+            1. [Keeping it WebKit, for now](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_27.html#ch03lvl2sec24)
+                1. [The stripes](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_27.html#ch03lvl3sec02)
+                1. [The curves](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_27.html#ch03lvl3sec03)
+                1. [Clouds](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_27.html#ch03lvl3sec04)
+        1. [Frame 2 – multiple backgrounds, text shadow, and RGBA color](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_28.html)
+            1. [RGBA](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_28.html#ch03lvl2sec25)
+            1. [Text shadow](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_28.html#ch03lvl2sec26)
+        1. [Frame 3 – box reflect, HSLA color, and generated content](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_29.html)
+            1. [HSL color](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_29.html#ch03lvl2sec27)
+            1. [Box shadow](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_29.html#ch03lvl2sec28)
+            1. [Converting the clouds to CSS](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_29.html#ch03lvl2sec29)
+            1. [Extra credit – converting the Modernizr logo to CSS](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_29.html#ch03lvl2sec30)
+        1. [Frame 4 – animations](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_30.html)
+            1. [Animating the clouds](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_30.html#ch03lvl2sec31)
+        1. [Frame 5 – putting it all together and making it rain](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_31.html)
+            1. [Caveats](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_31.html#ch03lvl2sec32)
+            1. [Vendor prefixing](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_31.html#ch03lvl2sec33)
+            1. [Prefixing with Modernizer.prefixed](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_31.html#ch03lvl2sec34)
+        1. [Summary](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_32.html)
+    1. [4. Customizing to Your Unique Needs](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_33.html)
+        1. [Customizing Modernizr](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_33.html#ch04lvl1sec26)
+            1. [The Modernizr.addTest plugin API](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_33.html#ch04lvl2sec35)
+            1. [Modernizr.load](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_33.html#ch04lvl2sec36)
+                1. [Using polyfills](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_33.html#ch04lvl3sec05)
+        1. [Media queries with Modernizr.mq](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_34.html)
+        1. [Respond](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_35.html)
+        1. [Further reading and resources](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_36.html)
+            1. [jQuery&#39;s Best Friends](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_36.html#ch04lvl2sec37)
+            1. [Require JS](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_36.html#ch04lvl2sec38)
+            1. [Backbone JS](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_36.html#ch04lvl2sec39)
+            1. [Underscore](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_36.html#ch04lvl2sec40)
+            1. [HTML5 Rocks](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_36.html#ch04lvl2sec41)
+        1. [Summary](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_37.html)
+    1. [Index](https://ebookreading.net/view/book/Learning+Modernizr-EB9781782160229_38.html)

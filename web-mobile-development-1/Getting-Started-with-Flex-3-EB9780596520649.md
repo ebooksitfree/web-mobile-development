@@ -1,0 +1,92 @@
+![Cover image for Getting Started with Flex 3](https://imgdetail.ebookreading.net/cover/cover/web_mobile/EB9780596520649.jpg)
+
+[Getting Started with Flex 3](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_1.html "Getting Started with Flex 3")
+====================================================================================================================
+
+Author : [Emily Kim](https://ebookreading.net/search/author/Emily+Kim),[ Jack D. Herrington](https://ebookreading.net/search/author/+Jack+D.+Herrington)
+
+Release Date : 2008/06/01
+
+ISBN : 9780596520649
+
+Topic : [Web & Mobile](https://ebookreading.net/search/category/web-mobile)
+
+Book Description
+-----------------
+
+Discover how easy RIA development can be with this one-of-a-kind handbook from the Adobe Developer Library. Several clear, step-by-step mini-tutorials teach you about web services, event handling, designing user interfaces with reusable components, and more. After finishing this guide, you'll be able to build Flash applications ranging from widgets to full-featured RIAs using the Flex SDK and Flex Builder 3.0. With Getting Started with Flex 3, you will:
+Walk through sample RIA projects and see examples of amazing applications people have built with FlexWork with ActionScript 3.0 and the MXML markup languageBuild user interfaces using the controls and tools available with the frameworkGet a tour of controls available commercially and through open sourceLearn how Flex integrates with ASP.NET, ColdFusion, PHP, and J2EE in the serverBuild Flex-based widgets that let you display real-time dataUse advanced controls to build 3D graphs, data dashboards, mapping applications, and moreYou'll find complete code for video players, a slideshow, a chat client, and an RSS reader, just to name a few. You also get plenty of tips, tricks, and techniques to leverage your existing programming skills, whether you come from an open source or Visual Studio-intensive background.              
+Table of Contents
+-----------------
+
+1. [A Note Regarding Supplemental Files](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_3.html)
+1. [Preface](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_4.html)
+    1. [Who Should Read This Book](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_4.html#who_should_read_thi)
+    1. [How This Book Is Organized](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_4.html#how_this_book_is_or)
+    1. [Conventions Used in This Book](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_4.html#conventions_used_in)
+    1. [How to Contact Us](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_4.html#how_to_contact_us)
+    1. [About the Author](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_4.html#about_the_author)
+    1. [Acknowledgments and Dedication](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_4.html#acknowledgments_and)
+    1. [Publisher’s Acknowledgments](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_4.html#publishers_acknowle)
+1. [1. Installing Flex Builder 3](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_5.html)
+    1. [Installing the IDE](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_5.html#installing_the_ide)
+    1. [Having Some Image Fun](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_5.html#having_some_image_f)
+1. [2. Flex in Action](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_7.html)
+    1. [E-Commerce](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_7.html#e-commerce)
+    1. [Online Applications](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_7.html#online_applications)
+    1. [Multimedia](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_7.html#multimedia)
+    1. [Plug-ins and Widgets](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_7.html#plug-ins_and_widget)
+    1. [Dashboards](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_7.html#dashboards)
+    1. [Desktop Applications](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_7.html#desktop_application)
+    1. [What Will You Do?](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_7.html#what_will_you_do_qu)
+1. [3. Flex 101: Step by Step](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_8.html)
+    1. [A Flickr Viewer](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_8.html#a_flickr_viewer)
+1. [4. Flex Controls and Layout](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html)
+    1. [The Application Container](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#the_application_con)
+    1. [The Box Class](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#the_box_class)
+    1. [The Canvas Container (Absolute Positioning)](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#the_canvas_containe)
+    1. [The Canvas Container (Relative Positioning)](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#the_canvas_containe)
+    1. [The Form Container](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#the_form_container)
+    1. [Combined Layouts](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#combined_layouts)
+    1. [The Panel Container](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#the_panel_container)
+    1. [Controls](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#controls)
+    1. [Data Grids](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#data_grids)
+        1. [In-Place Editing](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#in-place_editing)
+    1. [Tabs and Accordions](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#tabs_and_accordions)
+    1. [Menus](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#menus)
+    1. [Divider Boxes](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#divider_boxes)
+    1. [CSS](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#css)
+        1. [Skinning](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#skinning)
+    1. [Filters and Effects](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_9.html#filters_and_effects)
+1. [5. Working with the Server](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_0.html)
+    1. [POSTing to the Server with Flex](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_0.html#posting_to_the_serv)
+    1. [Using the HTTPService Tag](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_0.html#using_the_httpservi)
+        1. [The Server Code in ColdFusion](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_0.html#the_server_code_in_)
+    1. [Going on from Here](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_0.html#going_on_from_here)
+1. [6. More Flex Applications](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_10.html)
+    1. [A Runner’s Calculator](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_10.html#a_runner_apostrophy)
+    1. [A Simple Image Viewer](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_10.html#a_simple_image_view)
+    1. [Drag-and-Drop](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_10.html#drag-and-drop)
+    1. [States and Transitions](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_10.html#states_and_transiti)
+        1. [A Simple Video Viewer](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_10.html#a_simple_video_view)
+    1. [Creating Better Movies](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_10.html#creating_better_mov)
+1. [7. Advanced Flex Controls](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_11.html)
+    1. [ILOG Elixir](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_11.html#ilog_elixir)
+    1. [Advanced Flash Components](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_11.html#advanced_flash_comp)
+    1. [The FlexLib Project](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_11.html#the_flexlib_project)
+    1. [Distortion Effects](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_11.html#distortion_effects)
+    1. [SpringGraph](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_11.html#springgraph)
+1. [8. Flex for Widgets](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_12.html)
+    1. [Slide Show Widget](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_12.html#slide_show_widget)
+    1. [Chat Widget](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_12.html#chat_widget)
+1. [9. Flex on AIR](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_13.html)
+    1. [Creating an AIR Version of the Runner’s Calculator](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_13.html#creating_an_air_ver)
+1. [10. Resources for Flex Developers](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_14.html)
+    1. [Flex Websites](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_14.html#flex_websites)
+    1. [Blogs and Sites](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_14.html#blogs_and_sites)
+    1. [The Flex Cookbook](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_14.html#the_flex_cookbook)
+    1. [Community Resources](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_14.html#community_resources)
+    1. [Books](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_14.html#books)
+1. [Index](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_15.html)
+1. [About the Authors](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_16.html)
+1. [Copyright](https://ebookreading.net/view/book/Getting+Started+with+Flex+3-EB9780596520649_17.html)

@@ -1,0 +1,97 @@
+![Cover image for CSS: Tools &amp; Skills](https://imgdetail.ebookreading.net/cover/cover/web_mobile/EB9781492069836.jpg)
+
+[CSS: Tools &amp; Skills](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_1.html "CSS: Tools &amp; Skills")
+====================================================================================================================
+
+Author : [Tiffany B Brown](https://ebookreading.net/search/author/Tiffany+B+Brown),[ Ahmed Bouchefra](https://ebookreading.net/search/author/+Ahmed+Bouchefra),[ Craig Buckler](https://ebookreading.net/search/author/+Craig+Buckler)
+
+Release Date : 2018/10/01
+
+ISBN : 9781492069836
+
+Topic : [Web & Mobile](https://ebookreading.net/search/category/web-mobile)
+
+Book Description
+-----------------
+
+ CSS has grown from a language for formatting documents into a robust language for designing web applications. Its syntax is easy to learn, making CSS a great entry point for those new to programming. Indeed, it's often the second language that developers learn, right behind HTML.
+As CSS's feature set and abilities have grown, so has its depth. This book contains a selection fo articles that look at essential CSS tools and skills for front-end developers today. It contains:
+How to Use Gulp.js to Automate Your CSS Tasks by Craig BucklerCSS Optimization Tools for Boosting PWA Performance by Ahmed BouchefraCSS Debugging and Optimization: Code Quality Tools by Tiffany B. BrownCSS Debugging and Optimization: Developer Tools by Tiffany B. BrownCSS Debugging and Optimization: Minification with CSSO by Tiffany B. BrownHow to Create Printer-friendly Pages with CSS by Craig Buckler        Show and hide more                
+Table of Contents
+-----------------
+
+1. [CSS: Tools &amp; Skills](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_1.html)
+1. [Notice of Rights](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_1.html#sigil_toc_id_1)
+1. [Notice of Liability](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_1.html#sigil_toc_id_2)
+1. [Trademark Notice](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_1.html#sigil_toc_id_3)
+1. [About SitePoint](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_1.html#sigil_toc_id_4)
+1. [Preface](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_2.html)
+    1. [Conventions Used](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_2.html#preface-conventions)
+        1. [Code Samples](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_2.html#sigil_toc_id_5)
+        1. [Tips, Notes, and Warnings](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_2.html#preface-tips)
+1. [Chapter 1: How to Use Gulp.js to Automate Your CSS Tasks](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_3.html)
+    1. [by Craig Buckler](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_3.html#sigil_toc_id_6)
+    1. [Why Use Gulp?](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_3.html#whyusegulp)
+    1. [Example Project Overview](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_3.html#exampleprojectoverv)
+    1. [Getting Started with Gulp](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_3.html#gettingstartedwithg)
+    1. [Test HTML Page](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_3.html#testhtmlpage)
+    1. [Module Installation](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_3.html#moduleinstallation)
+    1. [Create a Gulp Task File](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_3.html#createagulptaskfile)
+    1. [Gulp Image Task](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_3.html#gulpimagetask)
+    1. [Gulp CSS Task](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_3.html#gulpcsstask)
+    1. [Automating Your Workflow](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_3.html#automatingyourworkf)
+    1. [Live Production Code](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_3.html#liveproductioncode)
+    1. [Next Steps](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_3.html#nextsteps)
+1. [Chapter 2: CSS Optimization Tools for Boosting PWA Performance](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_4.html)
+    1. [by Ahmed Bouchefra](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_4.html#sigil_toc_id_7)
+    1. [The Demo PWA to Audit](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_4.html#thedemopwatoaudit)
+    1. [Auditing with Google’s Lighthouse](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_4.html#auditingwithgoogles)
+    1. [Critical Rendering Path](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_4.html#criticalrenderingpa)
+    1. [CSS Optimization Using Lighthouse Opportunities](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_4.html#cssoptimizationusin)
+        1. [CSS Optimization: Removing Unused CSS Rules](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_4.html#cssoptimizationremo)
+        1. [Reduce Render-Blocking CSS](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_4.html#reducerenderblockin)
+        1. [Unminified CSS](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_4.html#unminifiedcss)
+        1. [Deferring Bootstrap Loading with JavaScript](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_4.html#deferringbootstrapl)
+    1. [Checking the Optimizations](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_4.html#checkingtheoptimiza)
+    1. [Similar Tools](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_4.html#similartools)
+    1. [Conclusion](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_4.html#conclusion)
+1. [Chapter 3: CSS Debugging and Optimization: Code Quality Tools](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_5.html)
+    1. [by Tiffany B. Brown](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_5.html#sigil_toc_id_8)
+    1. [stylelint](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_5.html#stylelint)
+        1. [stylelint Installation and Configuration](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_5.html#stylelintinstallati)
+        1. [Starting with a Base stylelint Configuration](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_5.html#startingwithabasest)
+        1. [Using stylelint](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_5.html#usingstylelint)
+    1. [UnCSS](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_5.html#uncss)
+        1. [UnCSS Installation](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_5.html#uncssinstallation)
+        1. [Using UnCSS from the Command Line](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_5.html#usinguncssfromtheco)
+    1. [Consider a Task Runner or Build Tool](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_5.html#considerataskrunner)
+1. [Chapter 4: CSS Debugging and Optimization: Developer Tools](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_6.html)
+    1. [by Tiffany B. Brown](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_6.html#sigil_toc_id_9)
+    1. [Using the Styles Panel](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_6.html#using-the-styles-pa)
+        1. [Identifying Cascade and Inheritance Problems](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_6.html#identifying-cascade)
+        1. [Spotting Invalid Properties and Values](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_6.html#spotting-invalid-pr)
+    1. [Debugging Responsive Layouts](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_6.html#debugging-responsiv)
+        1. [Chrome](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_6.html#chrome)
+        1. [Firefox](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_6.html#firefox)
+        1. [Microsoft Edge](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_6.html#microsoft-edge)
+        1. [Safari](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_6.html#safari)
+1. [Chapter 5: CSS Debugging and Optimization: Minification with CSSO](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_7.html)
+    1. [by Tiffany B. Brown](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_7.html#sigil_toc_id_10)
+    1. [Installing CSSO](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_7.html#installing-csso)
+    1. [Minification with CSSO](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_7.html#minification-with-c)
+1. [Chapter 6: How to Create Printer-friendly Pages with CSS](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html)
+    1. [by Craig Buckler](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html#sigil_toc_id_11)
+    1. [Print Stylesheets](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html#printstylesheets)
+    1. [Testing Printer Output](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html#testingprinteroutpu)
+        1. [Print Preview](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html#printpreview)
+        1. [Developer Tools](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html#developertools)
+        1. [Hack Your Media](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html#hackyourmedia)
+    1. [Remove Unnecessary Sections](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html#removeunnecessaryse)
+    1. [Linearize the Layout](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html#linearizethelayout)
+    1. [Printer Styling](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html#printerstyling)
+        1. [Adopt CSS Columns](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html#adoptcsscolumns)
+        1. [Use Borders Instead of Background Colors](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html#usebordersinsteadof)
+        1. [Remove or Invert Images](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html#removeorinvertimage)
+    1. [Add Supplementary Content](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html#addsupplementarycon)
+    1. [Page Breaks](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html#pagebreaks)
+    1. [Printing Pains](https://ebookreading.net/view/book/CSS%3A+Tools+%26amp%3B+Skills-EB9781492069836_8.html#printingpains)

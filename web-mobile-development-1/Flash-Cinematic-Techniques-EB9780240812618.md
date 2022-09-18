@@ -1,0 +1,86 @@
+![Cover image for Flash Cinematic Techniques](https://imgdetail.ebookreading.net/cover/cover/web_mobile/EB9780240812618.jpg)
+
+[Flash Cinematic Techniques](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_1.html "Flash Cinematic Techniques")
+====================================================================================================================
+
+Author : [Chris Jackson](https://ebookreading.net/search/author/Chris+Jackson)
+
+Release Date : 2012/10/01
+
+ISBN : 9780240812618
+
+Topic : [Web & Mobile](https://ebookreading.net/search/category/web-mobile)
+
+Book Description
+-----------------
+
+      Apply universally accepted cinematic techniques to your Flash projects to improve the storytelling quotient in your entertainment, advertising (branding), and educational media. A defined focus on the concepts and techniques for production from story reels to the final project delivers valuable insights, time-saving practical tips, and hands-on techniques for great visual stories. Extensive illustration, step-by-step instruction, and practical exercises provide a hands-on perspective.Explore the concepts and principles of visual components used in stories so you are fluent in the use of space, line, color, and movement in communicating emotion and meaning. Apply traditional cinematography techniques into the Flash workspace with virtual camera movements, simulated 3d spaces, lighting techniques, and character animation. Add interactivity using ActionScript to enhance audience participation.
+Table of Contents
+-----------------
+
+1. [Cover ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_1.html)
+1. [Title ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_2.html)
+1. [Copyright ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_3.html)
+1. [Contents ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_4.html)
+1. [Introduction ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_5.html)
+1. [Chapter 1: Show, Don’t Tell Me a Story ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_6.html)
+    1. [Anatomy of a Story ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_6.html#S7)
+    1. [The Story Structure ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_6.html#S8)
+    1. [Make Every Scene Count ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_6.html#S9)
+    1. [Show, Don’t Tell ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_6.html#S10)
+    1. [Find Your Artistic Direction in Flash ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_6.html#S11)
+1. [Chapter 2: Get into Character ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_7.html)
+    1. [Casting the Characters ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_7.html#S13)
+    1. [Shaping Up ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_7.html#S14)
+    1. [Adopting Stereotypes ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_7.html#S19)
+    1. [Exaggerating Personality ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_7.html#S20)
+    1. [Assembling the Cast in Flash ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_7.html#S25)
+1. [Chapter 3: Give Me Space ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_8.html)
+    1. [Defining the Space ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_8.html#S32)
+    1. [Showing the Space ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_8.html#S38)
+    1. [Illustrating the Space ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_8.html#S43)
+    1. [Drawing a Storyboard ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_8.html#S44)
+    1. [Building an Animatic in Flash ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_8.html#S46)
+1. [Chapter 4: Direct My Eye ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_9.html)
+    1. [Composing the Space ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_9.html#S49)
+    1. [Drawing the Line ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_9.html#S51)
+    1. [Being Dominant ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_9.html#S52)
+    1. [Having Some Depth ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_9.html#S53)
+    1. [Focusing Attention ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_9.html#S57)
+    1. [Simulating Depth in Flash ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_9.html#S58)
+1. [Chapter 5: Don’t Lose Me ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_10.html)
+    1. [Manipulating Time and Space ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_10.html#S62)
+    1. [Understanding Screen Direction ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_10.html#S63)
+    1. [Using the 180-Degree Rule ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_10.html#S64)
+    1. [Cutting and Continuity ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_10.html#S68)
+    1. [Transitioning Scenes ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_10.html#S74)
+    1. [Building Transitions in Flash ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_10.html#S76)
+1. [Chapter 6: Move the Camera ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_11.html)
+    1. [Creating New Worlds ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_11.html#S83)
+    1. [Panning the Camera ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_11.html#S85)
+    1. [Zooming ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_11.html#S89)
+    1. [Tracking Camera Movements ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_11.html#S90)
+    1. [Parallax Scrolling ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_11.html#S92)
+    1. [Simulating Cinematic Effects in Flash ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_11.html#S94)
+1. [Chapter 7: Light My World ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_13.html)
+    1. [Defining the Light ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_13.html#S97)
+    1. [Lighting a Scene ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_13.html#S98)
+    1. [Setting the Mood ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_13.html#S99)
+    1. [Simulating Lighting Effects in Flash ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_13.html#S100)
+1. [Chapter 8: Speak to Me ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_0.html)
+    1. [Recording Audio ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_0.html#S107)
+    1. [Lip-Syncing Dialog ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_0.html#S109)
+    1. [Mixing Sound Effects ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_0.html#S111)
+    1. [Exploring Facial Expressions ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_0.html#S113)
+    1. [Posing Your Character ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_0.html#S115)
+1. [Chapter 9: Interact with Me ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_14.html)
+    1. [Interactivity in Flash ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_14.html#S119)
+    1. [Controlling Camera Movements ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_14.html#S123)
+    1. [Directing the Characters](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_14.html#S127)
+    1. [Enhancing a Story Using ActionScript ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_14.html#S128)
+1. [Chapter 10: Optimize and Publish ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_15.html)
+    1. [Optimizing Graphics ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_15.html#S130)
+    1. [Preloading in Flash ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_15.html#S131)
+    1. [Using the QuickTime Exporter ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_15.html#S132)
+    1. [Exporting ActionScript-Driven Movies ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_15.html#S133)
+1. [Index ](https://ebookreading.net/view/book/Flash+Cinematic+Techniques-EB9780240812618_16.html)

@@ -1,0 +1,115 @@
+![Cover image for Pro HTML5 Programming, Second Edition](https://imgdetail.ebookreading.net/cover/cover/web_mobile/EB9781430238645.jpg)
+
+[Pro HTML5 Programming, Second Edition](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_1.html "Pro HTML5 Programming, Second Edition")
+====================================================================================================================
+
+Author : [Frank Salim](https://ebookreading.net/search/author/Frank+Salim),[ Brian Albers](https://ebookreading.net/search/author/+Brian+Albers),[ Peter Lubbers](https://ebookreading.net/search/author/+Peter+Lubbers)
+
+Release Date : 2011/11/01
+
+ISBN : 9781430238645
+
+Topic : [Web & Mobile](https://ebookreading.net/search/category/web-mobile)
+
+Book Description
+-----------------
+
+HTML5 is here, and with it, web applications have acquired power, ease, scalability, and responsiveness like never before. With this book, developers will learn how to use the latest cutting-edge HTML5 web technology—available in the most recent versions of modern browsers—to build web applications with unparalleled functionality, speed, and responsiveness.
+This new edition includes major revisions for WebSockets functionality, reflecting the new W3C specification. It also features new chapters covering the drag-and-drop API as well as SVG.
+Explains how to create real-time HTML5 applications that tap the full potential of modern browsers
+Provides practical, real-world examples of HTML5 features in action
+Covers all the new HTML5 APIs to get you up-to-speed quickly with HTML5
+Fully updated to include the latest revisions of the WebSocket API, and much more.
+              
+Table of Contents
+-----------------
+
+1. [Title](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_2.html)
+1. [Dedication](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_4.html)
+1. [Contents at a Glance](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_5.html)
+1. [Contents](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_6.html)
+1. [Foreword](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_7.html)
+1. [About the Authors](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_8.html)
+1. [About the Technical Reviewer](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_9.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_10.html)
+1. [Introduction](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_11.html#introduction)
+    1. [Who This Book Is For](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_11.html#who_this_book_is_fo)
+    1. [An Overview of This Book](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_11.html#an_overview_of_this)
+    1. [Example Code and Companion Web Site](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_11.html#example_code_and_co)
+    1. [Contacting the Authors](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_11.html#contacting_the_auth)
+1. [CHAPTER 1: Overview of HTML5](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_12.html#ch1)
+    1. [The Story So Far—The History of HTML5](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_12.html#the_story_so_farthe)
+    1. [The Myth of 2022 and Why It Doesn’t Matter](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_12.html#the_myth_of_2022_an)
+    1. [Who Is Developing HTML5?](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_12.html#who_is_developing_h)
+    1. [A New Vision](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_12.html#a_new_vision)
+    1. [A Plugin–Free Paradigm](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_12.html#a_pluginfree_paradi)
+    1. [What’s New in HTML5?](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_12.html#whats_new_in_html5)
+    1. [Summary](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_12.html#summary)
+1. [CHAPTER 2: Using the Canvas API](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_13.html#ch2)
+    1. [Overview of HTML5 Canvas](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_13.html#overview_of_html5_c)
+    1. [Using the HTML5 Canvas APIs](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_13.html#using_the_html5_can)
+    1. [Building an Application with HTML5 Canvas](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_13.html#building_an_applica)
+    1. [Summary](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_13.html#summary13)
+1. [CHAPTER 3: Scalable Vector Graphics](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_14.html#ch3)
+    1. [Overview of SVG](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_14.html#overview_of_svg)
+    1. [Building an Interactive Application with SVG](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_14.html#building_an_interac)
+    1. [Summary](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_14.html#summary12)
+1. [CHAPTER 4: Working with Audio and Video](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_15.html#ch4)
+    1. [Overview of Audio and Video](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_15.html#overview_of_audio_a)
+    1. [Using the Audio and Video API](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_15.html#using_the_audio_and)
+    1. [Summary](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_15.html#summary11)
+1. [CHAPTER 5: Using the Geolocation API](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_16.html#ch5)
+    1. [About Location Information](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_16.html#about_location_info)
+    1. [Browser Support for Geolocation](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_16.html#browser_support_for)
+    1. [Privacy](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_16.html#privacy)
+    1. [Using the Geolocation API](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_16.html#using_the_geolocati)
+    1. [Building an Application with Geolocation](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_16.html#building_an_applica)
+    1. [Practical Extras](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_16.html#practical_extras6)
+    1. [Summary](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_16.html#summary10)
+1. [CHAPTER 6: Using the Communication APIs](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_17.html#ch6)
+    1. [Cross Document Messaging](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_17.html#cross_document_mess)
+    1. [XMLHttpRequest Level 2](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_17.html#xmlhttprequest_leve)
+    1. [Practical Extras](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_17.html#practical_extras5)
+    1. [Summary](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_17.html#summary9)
+1. [CHAPTER 7: Using the WebSocket API](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_18.html#ch7)
+    1. [Overview of WebSocket](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_18.html#overview_of_websock)
+    1. [Writing a Simple Echo WebSocket Server](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_18.html#writing_a_simple_ec)
+    1. [Using the WebSocket API](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_18.html#using_the_websocket)
+    1. [Building a WebSocket Application](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_18.html#building_a_websocke)
+    1. [Summary](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_18.html#summary8)
+1. [CHAPTER 8: Using the Forms API](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_19.html#ch8)
+    1. [Overview of HTML5 Forms](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_19.html#overview_of_html5_f)
+    1. [Using the HTML5 Forms APIs](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_19.html#using_the_html5_for)
+    1. [Building an Application with HTML5 Forms](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_19.html#building_an_applica)
+    1. [Summary](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_19.html#summary7)
+1. [CHAPTER 9: Working with HTML5 Drag-and-Drop](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_20.html#ch9)
+    1. [Web Drag-and-Drop: The Story So Far](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_20.html#web_draganddrop_the)
+    1. [Overview of HTML5 Drag-and-Drop](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_20.html#overview_of_html5_d)
+    1. [Building an Application with Drag-and-Drop](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_20.html#building_an_applica)
+    1. [Handling Drag-and-Drop for Files](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_20.html#handling_draganddro)
+    1. [Practical Extras](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_20.html#practical_extras3)
+    1. [Summary](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_20.html#summary6)
+1. [CHAPTER 10: Using the Web Workers API](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_21.html#ch10)
+    1. [Browser Support for Web Workers](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_21.html#browser_support_for)
+    1. [Using the Web Workers API](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_21.html#using_the_web_worke)
+    1. [Coding the Main Page](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_21.html#coding_the_main_pag)
+    1. [Building an Application with Web Workers](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_21.html#building_an_applica)
+    1. [Summary](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_21.html#summary4)
+1. [CHAPTER 11: Using the Web Storage API](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_22.html#ch11)
+    1. [Overview of Web Storage](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_22.html#overview_of_web_sto)
+    1. [Browser Support for Web Storage](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_22.html#browser_support_for)
+    1. [Using the Web Storage API](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_22.html#using_the_web_stora)
+    1. [Building an Application with Web Storage](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_22.html#building_an_applica)
+    1. [The Future of Browser Database Storage](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_22.html#the_future_of_brows)
+    1. [Practical Extras](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_22.html#practical_extras1a)
+    1. [Summary](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_22.html#summary3)
+1. [CHAPTER 12: Creating HTML5 Offline Web Applications](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_23.html#ch12)
+    1. [Overview of HTML5 Offline Web Applications](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_23.html#overview_of_html5_o)
+    1. [Using the HTML5 Application Cache API](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_23.html#using_the_html5_app)
+    1. [Building an Application with HTML5 Offline Web Applications](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_23.html#building_an_applica)
+    1. [Summary](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_23.html#summary2)
+1. [CHAPTER 13: The Future of HTML5](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_24.html#ch13)
+    1. [Browser Support for HTML5](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_24.html#browser_support_for)
+    1. [HTML Evolves](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_24.html#html_evolves)
+    1. [Summary](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_24.html#summary1)
+1. [Index](https://ebookreading.net/view/book/Pro+HTML5+Programming%2C+Second+Edition-EB9781430238645_25.html#index)

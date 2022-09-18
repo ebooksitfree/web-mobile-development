@@ -1,0 +1,120 @@
+![Cover image for Foundation Website Creation with CSS, XHTML, and JavaScript](https://imgdetail.ebookreading.net/cover/cover/web_mobile/EB9781430209911.jpg)
+
+[Foundation Website Creation with CSS, XHTML, and JavaScript](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_1.html "Foundation Website Creation with CSS, XHTML, and JavaScript")
+====================================================================================================================
+
+Author : [Meitar Moscovitz](https://ebookreading.net/search/author/Meitar+Moscovitz),[ Jonathan Lane](https://ebookreading.net/search/author/+Jonathan+Lane),[ Joseph R. Lewis](https://ebookreading.net/search/author/+Joseph+R.+Lewis)
+
+Release Date : 2008/07/01
+
+ISBN : 9781430209911
+
+Topic : [Web & Mobile](https://ebookreading.net/search/category/web-mobile)
+
+Book Description
+-----------------
+
+Foundation Website Creation with CSS, XHTML, and JavaScript covers the entire process of building a website. This process involves much more than just technical knowledge, and this book provides you with all the information you'll need to understand the concepts behind designing and developing for the Web, as well as the best means to deliver professional, best-practice-based results.
+There is far more to building a successful website than knowing a little Hypertext Markup Language (HTML). The process starts long before any coding takes place, and this book introduces you to the agile development process, explaining why this method makes so much sense for web projects and how best to implement it. Planning is vital, so you'll also learn how to use techniques such as brainstorming, wireframes, mockups, and prototypes to get your project off to the best possible start and help ensure smooth progress as it develops.
+An understanding of correct, semantic markup is essential to any web professional, so this book explains how XHTML should be used to structure content so that the markup adheres to current web standards. You'll learn about the wide range of HTML elements available to you, and you'll learn how and when to use them through building example web pages.
+Without creative use of Cascading Style Sheets (CSS), websites would all look largely the same. CSS gives you the ability to set your website apart from the rest while maintaining the integrity of your markup. You'll learn how CSS works and how to apply styles to your pages, enabling you to realize your design ideas in the browser.
+JavaScript can be used to make your website easier and more interesting to use. This book provides information on appropriate uses of this technology and introduces the concepts of programming using it. You'll also see how JavaScript works as part of the much-hyped technique Ajax and in turn where Ajax fits into the wider Web 2.0 picture.
+While a website is being built, it needs to be tested across multiple browsers and platforms to ensure that the site works for all users, regardless of ability or disability, and the book explains how best to do these tasks. Then, it discusses the process of launching and maintaining the site so that it will continue to work for all its users throughout its life-cycle.
+The book concludes by covering server-side technologies, acting as a guide to the different options available and explaining differences between available products. With insights from renowned experts such as Jason Fried of 37signals, Daniel Burka of Digg and Pownce, and Chris Messina of Citizen Agency, this book provides invaluable information applicable to every web project, regardless of size, scope, or budget.
+              
+Table of Contents
+-----------------
+
+1. [Title Page](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_2.html)
+1. [Dedication](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_4.html#dedication)
+1. [CONTENTS AT A GLANCE](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_5.html#contents_at_a_glanc)
+1. [CONTENTS](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_6.html#contents)
+1. [ABOUT THE AUTHORS](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_7.html#about_the_author)
+1. [ABOUT THE COVER IMAGE DESIGNER](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_8.html#about_the_cover_ima)
+1. [ACKNOWLEDGMENTS](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_9.html#acknowledgments)
+1. [INTRODUCTION](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_10.html#introduction)
+    1. [Who this book is for](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_10.html#who_this_book_is_fo)
+    1. [How this book is structured](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_10.html#how_this_book_is_st)
+    1. [Layout conventions](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_10.html#layout_conventions)
+    1. [Prerequisites](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_10.html#prerequisites)
+    1. [Contacting the authors](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_10.html#contacting_the_auth)
+1. [Chapter 1: INTRODUCING THE PAST, PRESENT, AND FUTURE OF THE WEB](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_11.html#introducing_the_pas)
+    1. [The standard way of doing things](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_11.html#the_standard_way_of)
+    1. [Every journey starts with a single step: the Web past](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_11.html#every_journey_start)
+    1. [Then there were standards: the Web now](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_11.html#then_there_were_sta)
+    1. [A crystal ball: the Web future](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_11.html#a_crystal_ball_colo)
+    1. [Building on standards for the modern Web](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_11.html#building_on_standar)
+    1. [What&#39;s inside this book?](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_11.html#what_apostrophy_s_i)
+1. [Chapter 2: KEEPING A PROJECT ON TRACK](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_12.html#keeping_a_project_o)
+    1. [Stay away from waterfalls: the traditional approach](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_12.html#stay_away_from_wate)
+    1. [Web project management: the power of iteration](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_12.html#web_project_managem)
+    1. [Tools available](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_12.html#tools_available)
+    1. [Summary: the best advice](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_12.html#summary_colon_the_b)
+    1. [Profiling professions: Jason Fried](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_12.html#profiling_professio)
+1. [Chapter 3: PLANNING AND HIGH-LEVEL DESIGN](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_13.html#planning_and_high-l)
+    1. [The toolbox](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_13.html#the_toolbox)
+    1. [Let&#39;s go to an example](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_13.html#let_apostrophy_s_go)
+    1. [Summary: achieving balance](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_13.html#summary_colon_achie)
+    1. [Profiling Professions: Daniel Burka](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_13.html#profiling_professio)
+1. [Chapter 4: WRITING MARKUP WITH HTML AND XHTML](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_14.html#writing_markup_with)
+    1. [What are web pages, really?](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_14.html#what_are_web_pages_)
+    1. [The basics of markup](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_14.html#the_basics_of_marku)
+    1. [Starting with XHTML](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_14.html#starting_with_xhtml)
+    1. [Marking up content](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_14.html#marking_up_content)
+    1. [All together now: creating real pages](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_14.html#all_together_now_co)
+1. [Chapter 5: EXPLORING FUNDAMENTAL CONCEPTS OF CSS](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_15.html#exploring_fundament)
+    1. [The origins and evolution of Cascading Style Sheets](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_15.html#the_origins_and_evo)
+    1. [How CSS works](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_15.html#how_css_works)
+    1. [Applying styles to web page elements](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_15.html#applying_styles_to_)
+    1. [Visual rendering: document flow and the CSS box model](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_15.html#visual_rendering_co)
+    1. [Summary](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_15.html#summary)
+1. [Chapter 6: DEVELOPING CSS IN PRACTICE: FROM DESIGN TO DEPLOYMENT](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_16.html#developing_css_in_p)
+    1. [The visual source: understanding design documents](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_16.html#the_visual_source_c)
+    1. [Diving into code: advanced CSS concepts applied](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_16.html#diving_into_code_co)
+    1. [Dealing with nonstandard browsers](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_16.html#dealing_with_nonsta)
+    1. [CSS media types and creating print style sheets](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_16.html#css_media_types_and)
+    1. [Summary](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_16.html#summary-003)
+1. [Chapter 7: CREATING INTERACTIVITY WITH JAVASCRIPT](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_17.html#creating_interactiv)
+    1. [JavaScript basics: origin and background](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_17.html#javascript_basics_c)
+    1. [JavaScript: the basics](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_17.html#javascript_colon_th)
+    1. [Basic programming features](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_17.html#basic_programming_f)
+    1. [Event handlers: executing code](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_17.html#event_handlers_colo)
+    1. [Tools and practices to debug code](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_17.html#tools_and_practices)
+    1. [JavaScript libraries](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_17.html#javascript_librarie)
+    1. [Summary: a little JavaScript goes a long way](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_17.html#summary_colon_a_lit)
+1. [Chapter 8: TESTING, LAUNCHING, AND MAINTAINING](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_18.html#testing_comma_launc)
+    1. [The web development life cycle](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_18.html#the_web_development)
+    1. [Publishing process](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_18.html#publishing_process)
+    1. [Validating your code](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_18.html#validating_your_cod)
+    1. [Browser testing](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_18.html#browser_testing)
+    1. [User testing](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_18.html#user_testing)
+    1. [Accessibility testing](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_18.html#accessibility_testi)
+    1. [Launching your site: the big milestone](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_18.html#launching_your_site)
+    1. [Ongoing maintenance: beyond launch](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_18.html#ongoing_maintenance)
+    1. [Summary](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_18.html#summary-004)
+1. [Chapter 9: WEB 2.0: USING AJAX AND SOCIAL SOFTWARE](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_19.html#web_2.0_colon_using)
+    1. [The Web isn&#39;t application-like](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_19.html#the_web_isn_apostro)
+    1. [Design characteristics of Web 2.0](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_19.html#design_characterist)
+    1. [Web 2.0 is more than just Ajax](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_19.html#web_2.0_is_more_tha)
+    1. [The mobile Web](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_19.html#the_mobile_web)
+    1. [Web 2.0 means business](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_19.html#web_2.0_means_busin)
+    1. [What does the future hold?](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_19.html#what_does_the_futur)
+    1. [Profiling Professions: Chris Messina](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_19.html#profiling_professio)
+1. [Chapter 10: USING SERVER-SIDE TECHNOLOGIES](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_20.html#using_server-side_t)
+    1. [The server side removes barriers](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_20.html#the_server_side_rem)
+    1. [Web servers: dishing out hypertext](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_20.html#web_servers_colon_d)
+    1. [Databases for web geeks](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_20.html#databases_for_web_g)
+    1. [Web application languages](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_20.html#web_application_lan)
+    1. [Frameworks](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_20.html#frameworks)
+    1. [Summary](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_20.html#summary-005)
+1. [Afterword: THE BUSINESS OF THE WEB](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_21.html#afterword_colon_the)
+    1. [Basic needs of the freelance web professional](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_21.html#basic_needs_of_the_)
+    1. [Being legally well informed](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_21.html#being_legally_well_)
+    1. [Business types](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_21.html#business_types)
+    1. [Making money: financial survival](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_21.html#making_money_colon_)
+    1. [Advertising and promotion](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_21.html#advertising_and_pro)
+    1. [Finding work to pay the bills](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_21.html#finding_work_to_pay)
+    1. [Finding good resources: people](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_21.html#finding_good_resour)
+    1. [Growing your practice and increasing capacity](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_21.html#growing_your_practi)
+    1. [Training to stay current and competitive](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_21.html#training_to_stay_cu)
+1. [INDEX](https://ebookreading.net/view/book/Foundation+Website+Creation+with+CSS%2C+XHTML%2C+and+JavaScript-EB9781430209911_22.html#index)

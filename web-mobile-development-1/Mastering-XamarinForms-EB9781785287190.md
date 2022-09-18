@@ -1,0 +1,150 @@
+![Cover image for Mastering Xamarin.Forms](https://imgdetail.ebookreading.net/cover/cover/web_mobile/EB9781785287190.jpg)
+
+[Mastering Xamarin.Forms](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_1.html "Mastering Xamarin.Forms")
+====================================================================================================================
+
+Author : [Ed Snider](https://ebookreading.net/search/author/Ed+Snider)
+
+Release Date : 2016/01/01
+
+ISBN : 9781785287190
+
+Topic : [Web & Mobile](https://ebookreading.net/search/category/web-mobile)
+
+Book Description
+-----------------
+
+ Build rich, maintainable multiplatform native mobile apps with Xamarin.Forms
+About This Book
+Build an effective mobile app architecture with the Xamarin.Forms toolkitMaximize the testability, flexibility, and overall quality of your Xamarin.Forms mobile appThis step-by-step tutorial is packed with real-world scenarios and solutions to build professional grade mobile apps with Xamarin.FormsWho This Book Is For
+This book is intended for C# developers who are familiar with the Xamarin platform and the Xamarin.Forms toolkit. If you have already started working with Xamarin.Forms and want to take your app to the next level and make it more maintainable, testable, and flexible, then this book is for you.
+What You Will Learn
+Find out how, when, and why you should use architecture patterns and get best practices with Xamarin.FormsImplement the Model-View-ViewModel (MVVM) pattern and data-binding in Xamarin.Forms mobile appsExtend the Xamarin.Forms navigation API with a custom ViewModel-centric navigation serviceLeverage the inversion of control and dependency injection patterns in Xamarin.Forms mobile appsWork with online and offline data in Xamarin.Forms mobile appsTest both business logic and user interface code in Xamarin.Forms mobile appsUse platform-specific APIs to build rich custom user interfaces in Xamarin.Forms mobile appsExplore how to improve mobile app quality with analytics and crash reporting using Xamarin InsightsIn Detail
+Discover how to extend and build upon the components of the Xamarin.Forms toolkit to develop an effective, robust mobile app architecture. Starting with an app built with the basics of the Xamarin.Forms toolkit, we'll go step by step through several advanced topics to create a solution architecture rich with the benefits of good design patterns and best practices.
+We'll start by introducing a core separation between the app's user interface and the app's business logic by applying the MVVM pattern and data binding.
+Discover how to extend and build upon the components of the Xamarin.Forms toolkit to develop an effective, robust mobile app architecture. Starting with an app built with the basics of the Xamarin.Forms toolkit, we'll go step by step through several advanced topics to create a solution architecture rich with the benefits of good design patterns and best practices.
+We'll start by introducing a core separation between the app's user interface and the app's business logic by applying the MVVM pattern and data binding.
+Then we will focus on building out a layer of plugin-like services that handle platform-specific utilities such as navigation, geo-location, and the camera, as well as how to use these services with inversion of control and dependency injection. Next we'll connect the app to a live web-based API and set up offline synchronization. Then, we'll dive into testing the app - both the app logic through unit tests and the user interface using Xamarin's UITest framework. Finally, we'll integrate Xamarin Insights for monitoring usage and bugs to gain a proactive edge on app quality.
+Style and approach
+This easy-to-follow, code-rich guide will walk you through building a real-world Xamarin.Forms mobile app from start to finish. Each chapter builds upon the app by applying new advanced functionalities, design patterns, and best practices.
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Mastering Xamarin.Forms](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_3.html)
+    1. [Table of Contents](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_2.html)
+    1. [Mastering Xamarin.Forms](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_4.html)
+    1. [Credits](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_5.html)
+    1. [About the Author](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_6.html)
+    1. [Acknowledgments](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_7.html)
+    1. [About the Reviewers](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_8.html)
+    1. [www.PacktPub.com](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_9.html)
+        1. [Support files, eBooks, discount offers, and more](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_9.html#ch00lvl1sec01)
+            1. [Why subscribe?](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_9.html#ch00lvl2sec01)
+            1. [Free access for Packt account holders](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_9.html#ch00lvl2sec02)
+    1. [Preface](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_10.html)
+        1. [What this book covers](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_10.html#ch00lvl1sec02)
+        1. [What you need for this book](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_11.html)
+        1. [Who this book is for](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_12.html)
+        1. [Conventions](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_13.html)
+        1. [Reader feedback](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_14.html)
+        1. [Customer support](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_15.html)
+            1. [Downloading the example code](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_15.html#ch00lvl2sec03)
+            1. [Downloading the color images of this book](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_15.html#ch00lvl2sec04)
+            1. [Errata](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_15.html#ch00lvl2sec05)
+            1. [Piracy](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_15.html#ch00lvl2sec06)
+            1. [Questions](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_15.html#ch00lvl2sec07)
+            1. [Sources](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_15.html#ch00lvl2sec08)
+    1. [1. Getting Started](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_16.html)
+        1. [Introducing the app idea](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_16.html#ch01lvl1sec08)
+            1. [Defining features](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_16.html#ch01lvl2sec09)
+        1. [Creating the initial app](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_17.html)
+            1. [Setting up the solution](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_17.html#ch01lvl2sec10)
+                1. [Updating the Xamarin.Forms packages](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_17.html#ch01lvl3sec01)
+            1. [Creating the main page](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_17.html#ch01lvl2sec11)
+                1. [Running the app](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_17.html#ch01lvl3sec02)
+            1. [Creating the new entry page](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_17.html#ch01lvl2sec12)
+            1. [Creating the entry detail page](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_17.html#ch01lvl2sec13)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_18.html)
+    1. [2. MVVM and Data Binding](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_19.html)
+        1. [Understanding the MVVM pattern](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_19.html#ch02lvl1sec11)
+        1. [Adding MVVM to the app](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_20.html)
+            1. [Setting up the app structure](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_20.html#ch02lvl2sec14)
+            1. [Adding ViewModels](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_20.html#ch02lvl2sec15)
+                1. [Adding MainViewModel](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_20.html#ch02lvl3sec03)
+                1. [Adding DetailViewModel](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_20.html#ch02lvl3sec04)
+                1. [Adding NewEntryViewModel](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_20.html#ch02lvl3sec05)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_21.html)
+    1. [3. Navigation Service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_22.html)
+        1. [The Xamarin.Forms navigation API](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_22.html#ch03lvl1sec14)
+        1. [Navigation and MVVM](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_23.html)
+            1. [ViewModel-centric navigation](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_23.html#ch03lvl2sec16)
+        1. [Creating a navigation service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_24.html)
+            1. [Updating the TripLog app](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_24.html#ch03lvl2sec17)
+                1. [Updating BaseViewModel](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_24.html#ch03lvl3sec06)
+                1. [Updating MainViewModel](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_24.html#ch03lvl3sec07)
+                    1. [Initializing MainViewModel](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_24.html#ch03lvl4sec01)
+                1. [Updating NewEntryViewModel](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_24.html#ch03lvl3sec08)
+                1. [Updating DetailPage](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_24.html#ch03lvl3sec09)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_25.html)
+    1. [4. Platform Specific Services and Dependency Injection](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_26.html)
+        1. [Inversion of control and dependency injection in mobile apps](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_26.html#ch04lvl1sec18)
+        1. [The Xamarin.Forms DependencyService versus third-party alternatives](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_27.html)
+        1. [Creating and using platform-specific services](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_28.html)
+            1. [Creating a location service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_28.html#ch04lvl2sec18)
+            1. [Using the location service on the new entry page](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_28.html#ch04lvl2sec19)
+                1. [Adding the location service implementation](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_28.html#ch04lvl3sec10)
+        1. [Registering dependencies](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_29.html)
+            1. [Registering the platform-service implementations](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_29.html#ch04lvl2sec20)
+            1. [Registering the ViewModels](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_29.html#ch04lvl2sec21)
+            1. [Registering the navigation service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_29.html#ch04lvl2sec22)
+            1. [Updating the TripLog app](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_29.html#ch04lvl2sec23)
+            1. [Updating the navigation service to handle ViewModel creation and dependency injection](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_29.html#ch04lvl2sec24)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_30.html)
+    1. [5. User Interface](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_31.html)
+        1. [Custom Renderers](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_31.html#ch05lvl1sec23)
+            1. [Creating a TableView DatePicker](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_31.html#ch05lvl2sec25)
+        1. [Value Converters](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_32.html)
+            1. [Creating a reverse visibility Value Converter](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_32.html#ch05lvl2sec26)
+            1. [Creating an integer to image Value Converter](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_32.html#ch05lvl2sec27)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_33.html)
+    1. [6. API Data Access](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_34.html)
+        1. [Creating an API with Microsoft Azure App Services](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_34.html#ch06lvl1sec26)
+            1. [Browsing and adding data](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_34.html#ch06lvl2sec28)
+        1. [Creating a base HTTP service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_35.html)
+        1. [Creating an API Data Service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_36.html)
+            1. [Updating the TripLog app ViewModels](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_36.html#ch06lvl2sec29)
+        1. [Offline data caching](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_37.html)
+            1. [Adding the Akavache library](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_37.html#ch06lvl2sec30)
+            1. [Maintaining an offline data cache](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_37.html#ch06lvl2sec31)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_38.html)
+    1. [7. Authentication](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_39.html)
+        1. [Adding identity and authentication to Azure Mobile Apps](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_39.html#ch07lvl1sec31)
+            1. [Setting up permissions](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_39.html#ch07lvl2sec32)
+            1. [Setting up an identity provider](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_39.html#ch07lvl2sec33)
+        1. [Creating an authentication service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_40.html)
+        1. [Adding a sign in page](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_41.html)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_42.html)
+    1. [8. Testing](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_43.html)
+        1. [Unit testing](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_43.html#ch08lvl1sec35)
+            1. [Testing ViewModels](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_43.html#ch08lvl2sec34)
+            1. [Running unit tests in Xamarin Studio](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_43.html#ch08lvl2sec35)
+        1. [Automated UI testing](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_44.html)
+            1. [The Xamarin UITest framework](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_44.html#ch08lvl2sec36)
+                1. [Common UITest methods](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_44.html#ch08lvl3sec11)
+            1. [Creating a UITest project in Xamarin Studio](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_44.html#ch08lvl2sec37)
+            1. [Initializing the TripLog app for UITest](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_44.html#ch08lvl2sec38)
+            1. [Testing views](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_44.html#ch08lvl2sec39)
+            1. [Running UI tests](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_44.html#ch08lvl2sec40)
+                1. [Running UI tests locally](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_44.html#ch08lvl3sec12)
+                    1. [Enabling screenshots](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_44.html#ch08lvl4sec02)
+                1. [Running UI tests in Xamarin Test Cloud](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_44.html#ch08lvl3sec13)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_45.html)
+    1. [9. App Analytics](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_46.html)
+        1. [Mobile app analytics and crash reporting](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_46.html#ch09lvl1sec38)
+        1. [Xamarin Insights](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_47.html)
+            1. [Setting up Xamarin Insights](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_47.html#ch09lvl2sec41)
+            1. [Creating an analytics service](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_47.html#ch09lvl2sec42)
+            1. [Tracking exceptions and events](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_47.html#ch09lvl2sec43)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_48.html)
+    1. [Index](https://ebookreading.net/view/book/Mastering+Xamarin.Forms-EB9781785287190_49.html)
